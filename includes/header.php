@@ -55,10 +55,9 @@
     display: none;
     position: absolute;
     background-color: white;  /* White background */
-    width: 800%;            /* Full width on desktop */
+    width: 600%;            /* Full width on desktop */
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
-    margin-left:-220px;
   }
 
   .nav > li:hover > .dropdown-content, 
