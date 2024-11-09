@@ -21,11 +21,13 @@
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
     <!-- BOOTSTRAP STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
     <!-- FONTAWESOME STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+    <!-- <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" /> -->
     <!-- OWL CAROUSEL STYLE SHEET -->
     <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
     <!-- BOOTSTRAP SLECT BOX STYLE SHEET  -->
@@ -47,18 +49,84 @@
     <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/settings.css">
     <!-- REVOLUTION NAVIGATION STYLE -->
     <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/navigation.css">
-    
+    <style>
+  /* Update styles for the megamenu */
+  .nav > li > .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;  /* White background */
+    width: 600%;            /* Full width on desktop */
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .nav > li:hover > .dropdown-content, 
+  .nav > li:focus > .dropdown-content {
+    display: block;
+  }
+
+  .dropdown-content .header {
+    background: white; /* White background */
+    padding: 10px;
+    color: black;     /* Black text color */
+  }
+
+  .dropdown-content .row_header {
+    display: flex;
+    flex-wrap: nowrap;
+    background-color:white;
+  }
+
+  .dropdown-content .column {
+    flex: 25%; /* Column width for desktop */
+    padding: 10px;
+  }
+
+  .dropdown-content .column a {
+    color: black; /* Black text color */
+    text-decoration: none;
+    display: block;
+    padding: 8px;
+  }
+
+  .dropdown-content .column a:hover {
+    background-color: #fff;
+    color: black;
+  }
+
+  @media (max-width: 768px) {
+    .nav > li > .dropdown-content {
+      position: static;
+      background-color: white;
+      width: 100%;
+      box-shadow: none;
+    }
+
+    .dropdown-content .row_header {
+      display: block;
+    }
+
+    .dropdown-content .column {
+      flex: none;
+      width: 100%;
+      margin-bottom: 15px;
+      padding: 0; /* Make columns full-width in mobile */
+    }
+  }
+</style>
+
+ 
 </head>
 
 <body>
 
-	<div class="page-wraper">
+<div class="page-wraper">
      
-        <!-- HEADER START -->
-        <header class="site-header header-style-1 mobile-sider-drawer-menu">
-            
-            <div class="top-bar site-bg-white">
-                <div class="container">
+     <!-- HEADER START -->
+     <header class="site-header header-style-1 mobile-sider-drawer-menu">
+         
+         <div class="top-bar site-bg-white">
+             <div class="container">
 
                         <div class="d-flex justify-content-between">
                             <div class="wt-topbar-left d-flex flex-wrap align-content-start">
@@ -93,7 +161,7 @@
                             <div class="logo-header">
                                 <div class="logo-header-inner logo-header-one">
                                     <a href="index.html">
-                                    <img src="images/logo (4).png" alt="">
+                                    <img src="images/logo-dark.png" alt="">
                                     </a>
                                 </div>
                             </div>  
@@ -106,70 +174,94 @@
                                 <span class="icon-bar icon-bar-three"></span>
                             </button> 
 
-                            <!-- MAIN Vav -->
-                            <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
-                        
-                                <ul class=" nav navbar-nav">
-                                    <li class="active has-child"><a href="javascript:;">Home</a>
-                                        <div class="fa fa-angle-right submenu-toogle"></div> 
-                                        <ul class="sub-menu">
-                                            <li><a href="index.html">Industry 1</a></li>                                       
-                                            <li><a href="index-2.html">Industry 2</a></li>
-                                            <li><a href="index-3.html">Garden</a></li>
-                                            <li><a href="index-4.html">Construction</a></li>
-                                            <li><a href="index-5.html">Transport</a></li>                                    
-                                        </ul>                                                                  
-                                    </li>
-                                    <div>
-
-                                    </div>
-                                    
-                                    <li class="has-child">
-                                        <a href="javascript:;">Company</a><div class="fa fa-angle-right submenu-toogle"></div>
-                                        <ul class="sub-menu">
-                                            <li><a href="javascript:;">About</a><div class="fa fa-angle-right submenu-toogle"></div>
-                                                <ul class="sub-menu">
-                                                    <li><a href="about-1.html">About us 1</a></li>
-                                                    <li><a href="about-2.html">About us 2</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="javascript:;">Services</a><div class="fa fa-angle-right submenu-toogle"></div>
-                                                <ul class="sub-menu">
-                                                    <li><a href="services.html">Services</a></li>
-                                                    <li><a href="service-detail.html">Services Detail</a></li>
-                                                </ul>
-                                            </li>                                                                                    
-                                            <li><a href="javascript:;">Team</a><div class="fa fa-angle-right submenu-toogle"></div>
-                                                <ul class="sub-menu">
-                                                    <li><a href="our-team.html">Team</a></li>
-                                                    <li><a href="our-team-detail.html">Team Detail</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="faq.html">Faq</a></li>
-                                            <li><a href="pricing.html">Pricing</a></li>
-                                            <li><a href="error-404.html">Error-404</a></li>
-                                            <li><a href="icon-font.html">Icon Font</a></li>                                              
-                                        </ul>                                
-                                    </li>                                    
-                                    <li class="has-child"><a href="javascript:;">Recent Projects</a><div class="fa fa-angle-right submenu-toogle"></div>
-                                        <ul class="sub-menu">
-                                            <li><a href="project-1.html">Projects 1</a></li>                                        
-                                            <li><a href="project-2.html">Projects 2</a></li>
-                                            <li><a href="project-carousel.html">Projects Carousel</a></li>                                              
-                                            <li><a href="project-single.html">Projects Single</a></li>                                        
-                                        </ul>                                
-                                    </li>
-                            
-                                    <li class="has-child"><a href="javascript:;">Blog</a><div class="fa fa-angle-right submenu-toogle"></div>
-                                        <ul class="sub-menu">
-                                            <li><a href="blog-grid.html">Blog Grid</a></li>                                        
-                                            <li><a href="blog-list.html">Blog List</a></li> 
-                                            <li><a href="blog-single.html">Blog Single</a></li>
-                                        </ul>                                
-                                    </li>                                                                
-                                    <li><a href="contact.html">Contact</a></li>  
-                            
-                                </ul>
+                         <!-- MAIN Vav -->
+                         <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
+                     
+                             <ul class="nav navbar-nav">
+                                 <li class="active has-child"><a href="javascript:;">Home</a>
+                                     <div class="fa fa-angle-right submenu-toogle"></div> 
+                                     <ul class="sub-menu">
+                                         <li><a href="index.html">Industry 1</a></li>                                       
+                                         <li><a href="index-2.html">Industry 2</a></li>
+                                         <li><a href="index-3.html">Garden</a></li>
+                                         <li><a href="index-4.html">Construction</a></li>
+                                         <li><a href="index-5.html">Transport</a></li>                                    
+                                     </ul>                                                                  
+                                 </li>
+                                 
+                                 <li class="has-child">
+                                     <a href="javascript:;">Company</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                     <ul class="sub-menu">
+                                         <li><a href="javascript:;">About</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                             <ul class="sub-menu">
+                                                 <li><a href="about-1.html">About us 1</a></li>
+                                                 <li><a href="about-2.html">About us 2</a></li>
+                                             </ul>
+                                         </li>
+                                         <li><a href="javascript:;">Services</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                             <ul class="sub-menu">
+                                                 <li><a href="services.html">Services</a></li>
+                                                 <li><a href="service-detail.html">Services Detail</a></li>
+                                             </ul>
+                                         </li>                                                                                    
+                                         <li><a href="javascript:;">Team</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                             <ul class="sub-menu">
+                                                 <li><a href="our-team.html">Team</a></li>
+                                                 <li><a href="our-team-detail.html">Team Detail</a></li>
+                                             </ul>
+                                         </li>
+                                         <li><a href="faq.html">Faq</a></li>
+                                         <li><a href="pricing.html">Pricing</a></li>
+                                         <li><a href="error-404.html">Error-404</a></li>
+                                         <li><a href="icon-font.html">Icon Font</a></li>                                              
+                                     </ul>                                 
+                                 </li>                                  
+                                 
+                                 <li class="has-child"><div class="fa fa-angle-right submenu-toogle"></div>
+                                     <a href="javascript:;">Services</a>
+                                     <div class="dropdown-content">
+                                         <div>
+                                             <!-- <h4>Services</h4> -->
+                                         </div>
+                                         <div class="row_header">
+                                             <div class="column" style="background-color:white;color:black">
+                                                 <h3>Category 1</h3>
+                                                 <a href="javascript:void(0);">Link 1</a>
+                                                 <a href="javascript:void(0);">Link 2</a>
+                                                 <a href="javascript:void(0);">Link 3</a>
+                                             </div>
+                                             <div class="column" style="background-color:white;color:black">
+                                                 <h3>Category 2</h3>
+                                                 <a href="javascript:void(0);">Link 1</a>
+                                                 <a href="javascript:void(0);">Link 2</a>
+                                                 <a href="javascript:void(0);">Link 3</a>
+                                             </div>
+                                             <div class="column" style="background-color:white;color:black">
+                                                 <h3>Category 3</h3>
+                                                 <a href="javascript:void(0);">Link 1</a>
+                                                 <a href="javascript:void(0);">Link 2</a>
+                                                 <a href="javascript:void(0);">Link 3</a>
+                                             </div>
+                                             <div class="column" style="background-color:white;color:black">
+                                                 <h3>Category 4</h3>
+                                                 <a href="javascript:void(0);">Link 1</a>
+                                                 <a href="javascript:void(0);">Link 2</a>
+                                                 <a href="javascript:void(0);">Link 3</a>
+                                             </div>
+                                         </div>
+                                     </div>
+                                 </li>
+                                 
+                                 <li class="has-child"><a href="javascript:;">Blog</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                     <ul class="sub-menu">
+                                         <li><a href="blog-grid.html">Blog Grid</a></li>                                        
+                                         <li><a href="blog-list.html">Blog List</a></li> 
+                                         <li><a href="blog-single.html">Blog Single</a></li>
+                                     </ul>                                
+                                 </li>                                                                
+                                 <li><a href="contact.html">Contact</a></li>  
+                             
+                             </ul>
 
                             </div>
                             
@@ -233,8 +325,7 @@
                                         <input class="form-control" value="" name="q" type="search" placeholder="Type to search"/>
                                         <span class="input-group-append"><button type="button" class="search-btn"><i class="fa fa-paper-plane"></i></button></span>
                                     </div> 
-                                 
-                                </form>
+                                 </form>
 
 
                             </div> 
@@ -250,3 +341,4 @@
             
         </header>
         <!-- HEADER END -->
+</div>
