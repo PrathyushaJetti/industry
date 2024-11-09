@@ -44,7 +44,7 @@ include('includes/header.php')
                             <div class="sep-leaf-left"></div>
                             <div>Our Services</div>
                         </div>
-                        <h2 class="wt-title">We Provide Best Services</h2>
+                        <h2 class="wt-title">We Provide Best Glass Work Services</h2>
                     </div>
                     <!-- TITLE END-->  
                     <div class="s-section">
@@ -60,7 +60,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Chemical Research Industry</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Glass Polishing</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -82,7 +82,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Construction & Engineering</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Balustrading</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -104,7 +104,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Petroleum & Gas Engineering</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Spider Fitting</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -127,7 +127,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Mechanical Engineering</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Glass Partitions</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -149,7 +149,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Oil & gas Engineering</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Etching</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -171,7 +171,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Automotive Manufacturing</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Glass Shelving</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -192,7 +192,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Automotive Manufacturing</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Glass Replacing</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -213,7 +213,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Automotive Manufacturing</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Glass Patch Fitting</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -234,7 +234,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Automotive Manufacturing</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">All Types of Mirrors </a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">

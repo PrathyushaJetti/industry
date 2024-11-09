@@ -43,7 +43,7 @@ include('includes/header.php')
                             <div class="sep-leaf-left"></div>
                             <div>Our Services</div>
                         </div>
-                        <h2 class="wt-title">We Provide Best Services</h2>
+                        <h2 class="wt-title">We Provide Best UPVC Work Services</h2>
                     </div>
                     <!-- TITLE END-->  
                     <div class="s-section">
@@ -59,7 +59,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Chemical Research Industry</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Window Installation</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -81,7 +81,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Construction & Engineering</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Window Installation </a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
@@ -103,7 +103,7 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Petroleum & Gas Engineering</a></h4>
+                                        <h4 class="wt-title"><a href="service-detail.html">Window Installations</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">

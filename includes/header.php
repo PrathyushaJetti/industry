@@ -93,7 +93,7 @@
                             <div class="logo-header">
                                 <div class="logo-header-inner logo-header-one">
                                     <a href="index.html">
-                                    <img src="images/logo-dark.png" alt="">
+                                    <img src="images/logo (4).png" alt="">
                                     </a>
                                 </div>
                             </div>  
@@ -233,7 +233,8 @@
                                         <input class="form-control" value="" name="q" type="search" placeholder="Type to search"/>
                                         <span class="input-group-append"><button type="button" class="search-btn"><i class="fa fa-paper-plane"></i></button></span>
                                     </div> 
-                                 </form>
+                                 
+                                </form>
 
 
                             </div> 
