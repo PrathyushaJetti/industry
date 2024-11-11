@@ -160,7 +160,7 @@
 <script  src="<?= ROOT_PATH ?>js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
 <script  src="<?= ROOT_PATH ?>js/bootstrap-select.min.js"></script><!-- Form js -->
 <script  src="<?= ROOT_PATH ?>js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
-<script  src="<?= ROOT_PATH ?>/waypoints.min.js"></script><!-- WAYPOINTS JS -->
+<script  src="<?= ROOT_PATH ?>js/waypoints.min.js"></script><!-- WAYPOINTS JS -->
 <script  src="<?= ROOT_PATH ?>js/counterup.min.js"></script><!-- COUNTERUP JS -->
 <script  src="<?= ROOT_PATH ?>js/waypoints-sticky.min.js"></script><!-- STICKY HEADER -->
 <script  src="<?= ROOT_PATH ?>js/isotope.pkgd.min.js"></script><!-- MASONRY  -->
