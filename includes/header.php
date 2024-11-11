@@ -1,3 +1,7 @@
+<?php
+define('ROOT_PATH', 'http://localhost/industry/');
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -25,30 +29,30 @@
 
 
     <!-- BOOTSTRAP STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href= "<?= ROOT_PATH ?>css/bootstrap.min.css">
     <!-- FONTAWESOME STYLE SHEET -->
     <!-- <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" /> -->
     <!-- OWL CAROUSEL STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" type="text/css" href="<?= ROOT_PATH ?>css/owl.carousel.min.css">
     <!-- BOOTSTRAP SLECT BOX STYLE SHEET  -->
-    <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css">    
+    <link rel="stylesheet" type="text/css" href="<?= ROOT_PATH ?>css/bootstrap-select.min.css">    
     <!-- MAGNIFIC POPUP STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup.min.css">
+    <link rel="stylesheet" type="text/css" href="<?= ROOT_PATH ?>css/magnific-popup.min.css">
    
     <!-- MAIN STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="<?= ROOT_PATH ?>css/style.css">
     <!-- FLATICON STYLE SHEET -->
-    <link rel="stylesheet" type="text/css" href="css/flaticon.min.css">
+    <link rel="stylesheet" type="text/css" href="<?= ROOT_PATH ?>css/flaticon.min.css">
     <!-- IMAGE POPUP -->
-    <link rel="stylesheet" href="css/lc_lightbox.css" />
+    <link rel="stylesheet" href="<?= ROOT_PATH ?>css/lc_lightbox.css" />
     
     <!-- THEME COLOR CHANGE STYLE SHEET -->
-    <link rel="stylesheet" class="skin" type="text/css" href="css/skin-1.css">
+    <link rel="stylesheet" class="skin" type="text/css" href="<?= ROOT_PATH ?>css/skin-1.css">
 
     <!-- REVOLUTION SLIDER CSS -->
-    <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/settings.css">
+    <link rel="stylesheet" type="text/css" href="<?= ROOT_PATH ?>plugins/revolution/revolution/css/settings.css">
     <!-- REVOLUTION NAVIGATION STYLE -->
-    <link rel="stylesheet" type="text/css" href="plugins/revolution/revolution/css/navigation.css">
+    <link rel="stylesheet" type="text/css" href="<?= ROOT_PATH ?>plugins/revolution/revolution/css/navigation.css">
     <style>
   /* Update styles for the megamenu */
   .nav > li > .dropdown-content {

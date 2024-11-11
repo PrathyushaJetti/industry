@@ -155,32 +155,32 @@
 <!-- LOADING AREA  END ====== -->
 
 <!-- JAVASCRIPT  FILES ========================================= --> 
-<script  src="js/jquery-3.5.1.min.js"></script><!-- JQUERY.MIN JS -->
-<script  src="js/popper.min.js"></script><!-- POPPER.MIN JS -->
-<script  src="js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
-<script  src="js/bootstrap-select.min.js"></script><!-- Form js -->
-<script  src="js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
-<script  src="js/waypoints.min.js"></script><!-- WAYPOINTS JS -->
-<script  src="js/counterup.min.js"></script><!-- COUNTERUP JS -->
-<script  src="js/waypoints-sticky.min.js"></script><!-- STICKY HEADER -->
-<script  src="js/isotope.pkgd.min.js"></script><!-- MASONRY  -->
-<script  src="js/owl.carousel.min.js"></script><!-- OWL  SLIDER  -->
-<script  src="js/theia-sticky-sidebar.js"></script><!-- STICKY SIDEBAR  -->
-<script  src="js/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
-<script  src="js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
-<script src="js/lc_lightbox.lite.js" ></script><!-- IMAGE POPUP -->
+<script  src="<?= ROOT_PATH ?>js/jquery-3.5.1.min.js"></script><!-- JQUERY.MIN JS -->
+<script  src="<?= ROOT_PATH ?>js/popper.min.js"></script><!-- POPPER.MIN JS -->
+<script  src="<?= ROOT_PATH ?>js/bootstrap.min.js"></script><!-- BOOTSTRAP.MIN JS -->
+<script  src="<?= ROOT_PATH ?>js/bootstrap-select.min.js"></script><!-- Form js -->
+<script  src="<?= ROOT_PATH ?>js/magnific-popup.min.js"></script><!-- MAGNIFIC-POPUP JS -->
+<script  src="<?= ROOT_PATH ?>/waypoints.min.js"></script><!-- WAYPOINTS JS -->
+<script  src="<?= ROOT_PATH ?>js/counterup.min.js"></script><!-- COUNTERUP JS -->
+<script  src="<?= ROOT_PATH ?>js/waypoints-sticky.min.js"></script><!-- STICKY HEADER -->
+<script  src="<?= ROOT_PATH ?>js/isotope.pkgd.min.js"></script><!-- MASONRY  -->
+<script  src="<?= ROOT_PATH ?>js/owl.carousel.min.js"></script><!-- OWL  SLIDER  -->
+<script  src="<?= ROOT_PATH ?>js/theia-sticky-sidebar.js"></script><!-- STICKY SIDEBAR  -->
+<script  src="<?= ROOT_PATH ?>js/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
+<script  src="<?= ROOT_PATH ?>js/custom.js"></script><!-- CUSTOM FUCTIONS  -->
+<script src="<?= ROOT_PATH ?>js/lc_lightbox.lite.js" ></script><!-- IMAGE POPUP -->
 
 
 <!-- REVOLUTION JS FILES -->
 
-<script  src="plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></script>
-<script  src="plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js"></script>
+<script  src="<?= ROOT_PATH ?>plugins/revolution/revolution/js/jquery.themepunch.tools.min.js"></script>
+<script  src="<?= ROOT_PATH ?>plugins/revolution/revolution/js/jquery.themepunch.revolution.min.js"></script>
 
 <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  (Load Extensions only on Local File Systems !  The following part can be removed on Server for On Demand Loading) -->	
-<script  src="plugins/revolution/revolution/js/extensions/revolution-plugin.js"></script>
+<script  src="<?= ROOT_PATH ?>/plugins/revolution/revolution/js/extensions/revolution-plugin.js"></script>
 
 <!-- REVOLUTION SLIDER SCRIPT FILES -->
-<script  src="js/rev-script-1.js"></script>
+<script  src="<?= ROOT_PATH ?>/js/rev-script-1.js"></script>
 
 
 
