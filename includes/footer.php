@@ -37,12 +37,12 @@
                 <div class="widget widget_services">
                     <h3 class="widget-title">Company Links</h3>
                     <ul>
-                    <li><a href="index.php">Home</a></li>
-                        <li><a href="about.php"> About us </a></li>
-                        <li><a href="prti">Portfolio</a></li>
+                    <li><a href="<?= ROOT_PATH ?>index.php">Home</a></li>
+                        <li><a href="<?= ROOT_PATH ?>about.php"> About us </a></li>
+                        <li><a href="<?= ROOT_PATH ?>portfolio.php">Portfolio</a></li>
                         <!-- <li><a href="blog-grid.html">Blog</a></li> -->
                         
-                        <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="<?= ROOT_PATH ?>contact.html">Contact Us</a></li>
                         <li><a href="<?= ROOT_PATH ?>/terms/faq.php">FAQ'S</a></li>
                         <li><a href="<?= ROOT_PATH ?>/terms/terms.php">Terms &Conditions</a></li>
                         <li><a href="<?= ROOT_PATH ?>/terms/privacy-policy.php">privacy policy </a></li>

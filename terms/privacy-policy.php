@@ -7,6 +7,7 @@ sliding aluminum door,Door installation,aluminum door thickness,",
 
 
 ];
+
 include('.././includes/header.php');
 
 ?>
@@ -15,7 +16,10 @@ include('.././includes/header.php');
 
 
 
+
+
 <!-- <terms and condtion>  start-->
+<div class="page-content">
 <main class="wrap">
     <section class="container">
         <div class="container__heading">
@@ -57,7 +61,7 @@ include('.././includes/header.php');
 
 
 
-
+</div>
 
 <?php ;
 
