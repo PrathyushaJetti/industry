@@ -1,11 +1,12 @@
 <?php 
-// $meta = [
-//     'title' => "Book Online Bikes, Cabs, and Auto Rides Nearby at bharathgo.com",
-//     'description' => "Need a ride? Book bikes, cabs, or autos on BharathGo! Easy to book, affordable prices, and fast rides for your daily travel. Quick, simple, and budget-friendly.",
-//     'keywords' => "online booking apps,online cars booking,online bike booking,online auto booking,Cabs near me ,Bike ride app,Bike ride booking ,24/7  cabs service near me,How to book a bike taxi ,late-night ride services,Affordable bike and car rides near me,how to book auto online,online taxi near me,Car Rentals India,book cabs online,book taxi online,Cab services,Cab rental,Long Drives cabs,Bikes in online,bike rental near me,online bike on rent,bike rental nearby",
+$meta = [
+    'title' => "Aluminum Doors - Designs, Cost & Top Suppliers | AS Enterprises",
+    'description' => "Explore a wide range of aluminum door designs, prices, and top suppliers with AS Enterprises. Find stylish, durable options for residential and commercial needs.",
+    'keywords' => "Aluminum door price in india Aluminum door design,Aluminum door near me, Aluminum door,Aluminum door for home,Aluminum door sliding, aluminum door installation,
+sliding aluminum door,Door installation,aluminum door thickness,",
    
     
-// ]; 
+]; 
 include('.././includes/header.php');
 
  ?>

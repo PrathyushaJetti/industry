@@ -60,12 +60,15 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Glass Polishing</a></h4>
+                                        <h4 class="wt-title">
+                                        <a href="<?= ROOT_PATH ?>/services/glass_polishing.php">Glass Polishing</a>
+                                        </h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>AS Enterprises offers expert glass polishing services for cars, windows, and more, ensuring clear, shiny, and scratch-free glass surfaces.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/glass_polishing.php" class="site-button-link site-text-primary">
+                                            Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -82,12 +85,14 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Balustrading</a></h4>
+                                        <h4 class="wt-title">
+                                            <a href="<?= ROOT_PATH ?>/services/balustrading.php">Balustrading</a>
+                                        </h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>Glass balustrading adds style and safety to spaces, ideal for stairs, balconies, and industrial areas, with durable, modern designs.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/balustrading.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -104,12 +109,12 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Spider Fitting</a></h4>
+                                        <h4 class="wt-title"><a href="<?= ROOT_PATH ?>/services/spider_fitting.php">Spider Fitting</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>Glass spider fittings secure glass panels seamlessly, enhancing stability and transparency. AS Enterprises offers durable, stylish, and customizable solutions.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/spider_fitting.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -127,12 +132,12 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Glass Partitions</a></h4>
+                                        <h4 class="wt-title"><a href="<?= ROOT_PATH ?>/services/glass_partitions.php">Glass Partitions</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>Glass partitions offer stylish space division without blocking light, ideal for homes or offices. AS Enterprises provides custom, quality installations.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/glass_partitions.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -149,12 +154,12 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Etching</a></h4>
+                                        <h4 class="wt-title"><a href="<?= ROOT_PATH ?>/services/etching.php">Etching</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p> AS Enterprises offers personalized glass etching, adding beauty, privacy, and elegance to homes and businesses through detailed, lasting designs.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/etching.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -171,12 +176,12 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Glass Shelving</a></h4>
+                                        <h4 class="wt-title"><a href="<?= ROOT_PATH ?>/services/glass_shelving.php">Glass Shelving</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>Glass shelving by AS Enterprise adds style and openness to spaces, ideal for modern, minimalist looks in homes and businesses.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/glass_shelving.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -192,12 +197,12 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Glass Replacing</a></h4>
+                                        <h4 class="wt-title"><a href="<?= ROOT_PATH ?>/services/glass_replacing.php">Glass Replacing</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>AS Enterprises offers fast, reliable glass replacement for cars, homes, and businesses, ensuring safety, security, and expert service.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/glass_replacing.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -213,12 +218,12 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Glass Patch Fitting</a></h4>
+                                        <h4 class="wt-title"><a href="<?= ROOT_PATH ?>/services/glass_patch_fitting.php">Glass Patch Fitting</a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>Glass patch fittings securely connect glass panels for a sleek, frameless design, ideal for modern spaces, offering durability and easy maintenance.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/glass_patch_fitting.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -234,12 +239,12 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">All Types of Mirrors </a></h4>
+                                        <h4 class="wt-title"><a href="<?= ROOT_PATH ?>/services/all_types_of_mirrors.php">All Types of Mirrors </a></h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>AS Enterprises offers a wide range of mirrors for every home need, from stylish decor pieces to functional bathroom and vanity mirrors.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/all_types_of_mirrors.php" class="site-button-link site-text-primary">Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -255,61 +260,65 @@ include('includes/header.php')
             </div>   
             <!-- SERVICES SECTION END -->
              <!-- HELP SECTION START -->
-             <div class="section-full p-t0 p-b0">
-                <div class="container">
-                    <div class="help-blocks">
-                        <div class="row justify-content-center no-gutters">
+    <div class="section-full p-t0 p-b0">
+        <div class="container">
+            <div class="help-blocks">
+                <div class="row justify-content-center no-gutters">
 
-                            <!--Block 1-->
-                            <div class="col-lg-4 col-md-6 site-bg-primary">
-                                <div class="help-block-content  white">
-                                    <div class="wt-icon-box-wraper left">
-                                        <div class="wt-icon-box-sm">
-                                            <span class="icon-cell site-bg-dark"><i class="flaticon-lightbulb"></i></span>
-                                        </div>
-                                        <div class="icon-content">
-                                            <h4 class="wt-tilte">Creative Ideas</h4>
-                                            <p>Train with the best experts in bodybuilding field.</p>
-                                        </div>
-                                    </div>
+                    <!--Block 1-->
+                    <div class="col-lg-4 col-md-6 site-bg-primary">
+                        <div class="help-block-content  white">
+                            <div class="wt-icon-box-wraper left">
+                                <div class="wt-icon-box-sm">
+                                    <span class="icon-cell site-bg-dark"><i class="flaticon-lightbulb"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h4 class="wt-tilte"> Customer Satisfaction </h4>
+                                    <p>Making customers happy with great service and care every step of the way.</p>
                                 </div>
                             </div>
-
-                            <!--Block 2-->
-                            <div class="col-lg-4 col-md-6 site-bg-gray">
-                                <div class="help-block-content ">
-                                    <div class="wt-icon-box-wraper left">
-                                        <div class="wt-icon-box-sm">
-                                            <span class="icon-cell site-bg-dark"><i class="flaticon-customer-service"></i></span>
-                                        </div>
-                                        <div class="icon-content">
-                                            <h4 class="wt-tilte">24/7 Support</h4>
-                                            <p>Train with the best experts in bodybuilding field.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <!--Block 3-->
-                            <div class="col-lg-4 col-md-6  site-bg-black">
-                                <div class="help-block-content white">
-                                    <div class="wt-icon-box-wraper left">
-                                        <div class="wt-icon-box-sm">
-                                            <span class="icon-cell site-bg-dark"><i class="flaticon-antivirus"></i></span>
-                                        </div>
-                                        <div class="icon-content">
-                                            <h4 class="wt-tilte">Super Safety</h4>
-                                            <p>Train with the best experts in bodybuilding field.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> 
-
                         </div>
                     </div>
+
+                    <!--Block 2-->
+                    <div class="col-lg-4 col-md-6 site-bg-gray">
+                        <div class="help-block-content ">
+                            <div class="wt-icon-box-wraper left">
+                                <div class="wt-icon-box-sm">
+                                    <span class="icon-cell site-bg-dark"><i
+                                            class="flaticon-customer-service"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h4 class="wt-tilte"> Premium Quality </h4>
+                                    <p> Offering top-quality items built to last and exceed customer expectations.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Block 3-->
+                    <div class="col-lg-4 col-md-6  site-bg-black">
+                        <div class="help-block-content white">
+                            <div class="wt-icon-box-wraper left">
+                                <div class="wt-icon-box-sm">
+                                    <span class="icon-cell site-bg-dark"><i class="flaticon-antivirus"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h4 class="wt-tilte"> Customized Products </h4>
+                                    <p>Personalized products are designed to fit each customer's style and needs
+                                        perfectly.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
-            <!-- HELP SECTION End -->
+        </div>
+    </div>
+    <!-- HELP SECTION End -->
 
             <!-- SOME FACTS START -->
             <div class="section-full p-t120 p-b120 bg-cover" style="background-image:url(images/background/bg10.jpg);">

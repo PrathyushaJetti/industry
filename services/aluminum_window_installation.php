@@ -1,11 +1,11 @@
 <?php 
-// $meta = [
-//     'title' => "Book Online Bikes, Cabs, and Auto Rides Nearby at bharathgo.com",
-//     'description' => "Need a ride? Book bikes, cabs, or autos on BharathGo! Easy to book, affordable prices, and fast rides for your daily travel. Quick, simple, and budget-friendly.",
-//     'keywords' => "online booking apps,online cars booking,online bike booking,online auto booking,Cabs near me ,Bike ride app,Bike ride booking ,24/7  cabs service near me,How to book a bike taxi ,late-night ride services,Affordable bike and car rides near me,how to book auto online,online taxi near me,Car Rentals India,book cabs online,book taxi online,Cab services,Cab rental,Long Drives cabs,Bikes in online,bike rental near me,online bike on rent,bike rental nearby",
+$meta = [
+    'title' => "Best Aluminum Window Installation in India | AS Enterprises",
+    'description' => "Discover premium aluminum window designs, competitive prices, and custom sections by AS Enterprises. Quality installations and durable options for homes in India.",
+    'keywords' => "Aluminum  Window installation near me Aluminum   Window installation cost, Aluminum  Window installation price in india, Aluminum   Sliding Window,Aluminum  Window design, Aluminum  Window customized  installation,aluminum window installers,aluminum window installation services, Aluminum  Window replacement, Soundproof windows,Aluminum  Window,s",
    
     
-// ]; 
+]; 
 include('.././includes/header.php');
 
  ?>
@@ -135,10 +135,10 @@ include('.././includes/header.php');
                                             <div class="col-md-6">
                                                 <ul class="list-angle-right">
                                                    <li>100% Satisfaction Guarantee.</li>
-                                                   <li> Accurate Testing Processes.</li>
-                                                   <li> 35+ Years Of Experience.</li>
-                                                   <li> Strong Building Materials.</li>
-                                                   <li>Eco-Friendly Build Materials.</li>
+                                                   <li> Quality of Materials. </li>
+                                                   <li> Expert Craftsmanship. </li>
+                                                   <li> Customization Options.</li>
+                                                   <li>Affordable Pricing.</li>
                                                 </ul>
                                             </div> 
 

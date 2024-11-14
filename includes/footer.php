@@ -9,10 +9,7 @@
                 
                 <div class="widget widget_about">
                     <h3 class="widget-title">About Us</h3>
-                    <p>We are the leaders in the building 
-                       construction and factories. We’re around
-                       over the worldwide. We never give up 
-                       on the challenges</p>
+                    <p>AS Enterprises provides top-quality aluminum, glass, and uPVC installation services at affordable prices, ensuring customer satisfaction every time.</p>
                     <ul class="social-icons">
                         <li><a href="javascript:void(0);" class="fa fa-facebook"></a></li>
                         <li><a href="javascript:void(0);" class="fa fa-twitter"></a></li>
@@ -27,24 +24,30 @@
                 <div class="widget widget_services">
                     <h3 class="widget-title">Services</h3>
                     <ul>
-                        <li><a href="service-detail.html">Construction Engineering</a></li>
-                        <li><a href="service-detail.html">Oil & Gas Refinery</a></li>
-                        <li><a href="service-detail.html">Mechanical Engineering</a></li>
-                        <li><a href="service-detail.html">Chemical Research</a></li>
-                        <li><a href="service-detail.html">Civil Engineering </a></li>
+                        <li><a href=""> Aluminum Work</a></li>
+                        <li><a href="service-detail.html">UPVC Work</a></li>
+                        <li><a href="service-detail.html">Glass Work</a></li>
+                        
                     </ul>
                 </div>
+                
             </div>
 
             <div class="col-lg-3 col-md-6">
                 <div class="widget widget_services">
                     <h3 class="widget-title">Company Links</h3>
                     <ul>
-                        <li><a href="about-1.html">About</a></li>
-                        <li><a href="project-1.html">Projects</a></li>
-                        <li><a href="blog-grid.html">Blog</a></li>
-                        <li><a href="faq.html">FAQ</a></li>
+                    <li><a href="index.php">Home</a></li>
+                        <li><a href="about.php"> About us </a></li>
+                        <li><a href="prti">Portfolio</a></li>
+                        <!-- <li><a href="blog-grid.html">Blog</a></li> -->
+                        
                         <li><a href="contact.html">Contact Us</a></li>
+                        <li><a href="<?= ROOT_PATH ?>/terms/faq.php">FAQ'S</a></li>
+                        <li><a href="<?= ROOT_PATH ?>/terms/terms.php">Terms &Conditions</a></li>
+                        <li><a href="<?= ROOT_PATH ?>/terms/privacy-policy.php">privacy policy </a></li>
+                        <li><a href="<?= ROOT_PATH ?>/terms/disclaimer.php">Disclaimer</a></li>
+
                     </ul>
                 </div>
             </div>
@@ -131,7 +134,7 @@
     <div class="container">
         <div class="footer-bottom-info">
             <div class="footer-copy-right">
-                <span class="copyrights-text">Copyright © 2020 by <span class="site-text-primary">Thewebmax</span> | All rights reserved </span>
+                <span class="copyrights-text">Copyright © 2023 by <span class="site-text-primary">AS Enterprises</span> | All rights reserved </span>
             </div>
         </div>
     </div>   

@@ -17,7 +17,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
     
     <!-- FAVICONS ICON -->
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="<?= ROOT_PATH ?>img/logo.png" />
     
     <!-- PAGE TITLE HERE -->
     <title>indusza Template | Home Page Style 1</title>
@@ -59,7 +59,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
     display: none;
     position: absolute;
     background-color: white;  /* White background */
-    width: 600%;            /* Full width on desktop */
+    width: 800%;            /* Full width on desktop */
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
   }
@@ -135,8 +135,8 @@ define('ROOT_PATH', 'http://localhost/industry/');
                         <div class="d-flex justify-content-between">
                             <div class="wt-topbar-left d-flex flex-wrap align-content-start">
                                 <ul class="wt-topbar-left-info">
-                                    <li><i class="flaticon-call"></i><span>Call :</span> + (291) 1800-567-9090</li>
-                                    <li><i class="flaticon-mail"></i><span>Email :</span> office@example.com</li>
+                                    <li><i class="flaticon-call"></i><span>Call :</span> + 91-9535452209/+91-9986338333.</li>
+                                    <li><i class="flaticon-mail"></i><span>Email :</span>asenterprises1569@gmail.com</li>
                                 </ul>
                             </div>
                             
@@ -164,8 +164,8 @@ define('ROOT_PATH', 'http://localhost/industry/');
                     
                             <div class="logo-header">
                                 <div class="logo-header-inner logo-header-one">
-                                    <a href="index.html">
-                                    <img src="images/logo-dark.png" alt="">
+                                    <a href="<?= ROOT_PATH ?>">
+                                    <img src="<?= ROOT_PATH ?>/img/logo.png" alt="">
                                     </a>
                                 </div>
                             </div>  
@@ -182,19 +182,20 @@ define('ROOT_PATH', 'http://localhost/industry/');
                          <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
                      
                              <ul class="nav navbar-nav">
-                                 <li class="active has-child"><a href="javascript:;">Home</a>
-                                     <div class="fa fa-angle-right submenu-toogle"></div> 
+                                 <li class="active has-child"><a href="<?= ROOT_PATH ?>/index.php">Home</a>
+                                     <!-- <div class="fa fa-angle-right submenu-toogle"></div> 
                                      <ul class="sub-menu">
                                          <li><a href="index.html">Industry 1</a></li>                                       
                                          <li><a href="index-2.html">Industry 2</a></li>
                                          <li><a href="index-3.html">Garden</a></li>
                                          <li><a href="index-4.html">Construction</a></li>
                                          <li><a href="index-5.html">Transport</a></li>                                    
-                                     </ul>                                                                  
+                                     </ul>                                                                   -->
                                  </li>
                                  
                                  <li class="has-child">
-                                     <a href="javascript:;">Company</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                     <a href="<?= ROOT_PATH ?>/about.php">About us</a>
+                                     <!-- <div class="fa fa-angle-right submenu-toogle"></div>
                                      <ul class="sub-menu">
                                          <li><a href="javascript:;">About</a><div class="fa fa-angle-right submenu-toogle"></div>
                                              <ul class="sub-menu">
@@ -218,52 +219,62 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                          <li><a href="pricing.html">Pricing</a></li>
                                          <li><a href="error-404.html">Error-404</a></li>
                                          <li><a href="icon-font.html">Icon Font</a></li>                                              
-                                     </ul>                                 
+                                     </ul>                                  -->
                                  </li>                                  
                                  
                                  <li class="has-child"><div class="fa fa-angle-right submenu-toogle"></div>
-                                     <a href="javascript:;">Services</a>
+                                     <a href="<?= ROOT_PATH ?>services.php">Services</a>
                                      <div class="dropdown-content">
                                          <div>
                                              <!-- <h4>Services</h4> -->
                                          </div>
                                          <div class="row_header">
                                              <div class="column" style="background-color:white;color:black">
-                                                 <h3>Category 1</h3>
-                                                 <a href="javascript:void(0);">Link 1</a>
-                                                 <a href="javascript:void(0);">Link 2</a>
-                                                 <a href="javascript:void(0);">Link 3</a>
+                                                 <h3> Aluminum </h3>
+                                                 <a href="<?= ROOT_PATH ?>/services/aluminum_window_installation.php"> Window Installation </a>
+                                                 <a href="<?= ROOT_PATH ?>/services/aluminum_partition_installation.php"> Partition Installation </a>
+                                                 <a href="<?= ROOT_PATH ?>/services/aluminum_door_installation.php"> Door Installation </a>
+                                                 <a href="<?= ROOT_PATH ?>/services/glazing_work.php"> Glazing Work </a>
+                                                 <a href="<?= ROOT_PATH ?>/services/profile_door_installation.php"> Profile Door Installation </a>
                                              </div>
                                              <div class="column" style="background-color:white;color:black">
-                                                 <h3>Category 2</h3>
-                                                 <a href="javascript:void(0);">Link 1</a>
-                                                 <a href="javascript:void(0);">Link 2</a>
-                                                 <a href="javascript:void(0);">Link 3</a>
+                                                 <h3> UPVC </h3>
+                                                 <a href="<?= ROOT_PATH ?>/services/upvc_window_installation.php">Window Installation</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/upvc_partitions_installation.php">Partition Installation</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/upvc_door_installations.php">Door Installation</a>
                                              </div>
                                              <div class="column" style="background-color:white;color:black">
-                                                 <h3>Category 3</h3>
+                                                 <h3> Glass </h3>
+                                                 <a href="<?= ROOT_PATH ?>/services/glass_polishing.php">Glass Polishing</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/balustrading.php">Balustrading</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/spider_fitting.php">Spider Fitting</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/glass_partitions.php">Glass Partitions</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/etching.php">Etching</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/glass_shelving.php">Glass Shelving</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/glass_replacing.php">Glass Replacing</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/glass_patch_fitting.php">Glass Patch Fitting</a>
+                                                 <a href="<?= ROOT_PATH ?>/services/all_types_of_mirrors.php">All Types of Mirrors</a>
+                                                 
+                                                 
+
+
+                                             </div>
+                                             <!-- <div class="column" style="background-color:white;color:black">
+                                                 <h3> Hardware </h3>
                                                  <a href="javascript:void(0);">Link 1</a>
                                                  <a href="javascript:void(0);">Link 2</a>
                                                  <a href="javascript:void(0);">Link 3</a>
-                                             </div>
-                                             <div class="column" style="background-color:white;color:black">
-                                                 <h3>Category 4</h3>
-                                                 <a href="javascript:void(0);">Link 1</a>
-                                                 <a href="javascript:void(0);">Link 2</a>
-                                                 <a href="javascript:void(0);">Link 3</a>
-                                             </div>
+                                             </div> -->
                                          </div>
                                      </div>
                                  </li>
-                                 
-                                 <li class="has-child"><a href="javascript:;">Blog</a><div class="fa fa-angle-right submenu-toogle"></div>
-                                     <ul class="sub-menu">
-                                         <li><a href="blog-grid.html">Blog Grid</a></li>                                        
-                                         <li><a href="blog-list.html">Blog List</a></li> 
-                                         <li><a href="blog-single.html">Blog Single</a></li>
-                                     </ul>                                
-                                 </li>                                                                
-                                 <li><a href="contact.html">Contact</a></li>  
+                                 <li class="has-child"><a href="<?= ROOT_PATH ?>Portfolio.php">Portfolio</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                                                  
+                                                                  </li> 
+                                 <!-- <li class="has-child"><a href="<?= ROOT_PATH ?>blog.php">Blog</a><div class="fa fa-angle-right submenu-toogle"></div>
+                                                                  
+                                 </li>                                                                 -->
+                                 <li><a href="<?= ROOT_PATH ?>contact.php">Contact</a></li>  
                              
                              </ul>
 
@@ -294,7 +305,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                                 <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-phone"></i></div>
                                                 <div class="icon-content">
                                                     <h4 class="m-t0  wt-title">Phone number</h4>
-                                                    <p>+(02) 0111-7457-354</p>
+                                                    <p>+91-9535452209, +91-9986338333.</p>
                                                 </div>
                                             </div>
                                             
@@ -310,12 +321,12 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                                 <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-map-marker"></i></div>
                                                 <div class="icon-content">
                                                     <h4 class="m-t0  wt-title">Address info</h4>
-                                                    <p>92 Princess Road, parkvenue</p>
+                                                    <p>1 STAGE KIADB Kapnoor Industrial Area plot no.36/C 6th cross,<br> near Rahman Masjid Kalaburgi-585104 Gulbarga, Karnatakae</p>
                                                 </div>
                                             </div>
                                         </div>                                          
                                         <div class="text-center">
-                                            <span>&copy;  2020 Thewebmax</span> 
+                                            <span>&copy;  2023 AS Enterprises</span> 
                                         </div>                                                                    			
                                      </div>
                                 </div> 

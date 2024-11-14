@@ -1,12 +1,12 @@
-<?php ;
-// $meta = [
-//     'title' => "Book Online Bikes, Cabs, and Auto Rides Nearby at bharathgo.com",
-//     'description' => "Need a ride? Book bikes, cabs, or autos on BharathGo! Easy to book, affordable prices, and fast rides for your daily travel. Quick, simple, and budget-friendly.",
-//     'keywords' => "online booking apps,online cars booking,online bike booking,online auto booking,Cabs near me ,Bike ride app,Bike ride booking ,24/7  cabs service near me,How to book a bike taxi ,late-night ride services,Affordable bike and car rides near me,how to book auto online,online taxi near me,Car Rentals India,book cabs online,book taxi online,Cab services,Cab rental,Long Drives cabs,Bikes in online,bike rental near me,online bike on rent,bike rental nearby",
+<?php 
+$meta = [
+    'title' => "Best UPVC Windows Installation Services in India | AS Enterprises",
+    'description' => "AS Enterprises offers professional UPVC windows and installation services, ensuring durability, energy efficiency, and aesthetic appeal for homes and commercial spaces.",
+    'keywords' => "UPVC window installation, UPVC windows, UPVC Window Installation Service, UPVC window door, UPVC window prices, UPVC window rate, UPVC window design, UPVC window locks, UPVC window manufacturers, UPVC window Wholesale Supplier  Wholesaler, UPVC Window Installation Service India, UPVC Window Installation Service Hyderabad, UPVC Window Installation Service by AS Enterprises,",
    
     
-// ]; 
-include('./includes/header.php');
+]; 
+include('.././includes/header.php');
 
  ?>
     
@@ -16,21 +16,21 @@ include('./includes/header.php');
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);" alt="aluminum" >
             	<div class="overlay-main site-bg-black opacity-06"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
                     	<div class="banner-title-outer">
                         	<div class="banner-title-name">
-                        		<h2 class="wt-title">Service Detail</h2>
+                        		<h2 class="wt-title"> UPVC Windows Installation </h2>
                             </div>
                         </div>
                         <!-- BREADCRUMB ROW -->                            
                         
                             <div>
                                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li>Service Detail</li>
+                                    <li><a href="../index.php">Home</a></li>
+                                    <li> UPVC Windows Installation  </li>
                                 </ul>
                             </div>
                         
@@ -49,12 +49,14 @@ include('./includes/header.php');
                             <div class="col-lg-3 col-md-12 rightSidebar">
                                 <div class="all_services m-b30">
                                     <ul>
-                                        <li><a href="services.html">All Services</a></li>
-                                        <li><a href="service-detail.html">Oil & Gas Engineering</a></li>
-                                        <li><a href="service-detail.html" class="active">Chemical Research</a></li>
-                                        <li><a href="service-detail.html">Agricultural Automation</a></li>
-                                        <li><a href="service-detail.html">Mechanical Engineering</a></li>
+                                        <li><a href="./aluminum_window_installation.php" class="active"> Aluminum Window Installation</a></li>
+                                        <li><a href="./aluminum_partition_installation.php"> Aluminum Partition Installation </a></li>
+                                        <li><a href="./upvc_window_installation.php" > UPVC Window Installation</a></li>
+                                        <li><a href="./upvc_partitions_installation.php"> UPVC Partition Installation</a></li>
+                                        <li><a href="./glass_polishing.php"> Glass Polishing </a></li>
+                                        <li><a href="./balustrading.php"> Balustrading </a></li>
                                     </ul>
+                                    <a href="../services.php" class="site-button sb-bdr-dark"> All Services </a> 
                                 </div> 
                                 
                                 <div class="service-side-btn m-b30 site-bg-primary text-white p-a20">
@@ -84,50 +86,63 @@ include('./includes/header.php');
 
                                     <div class="services-etc m-b30">
                                         <div class="wt-media m-b30">
-                                            <img src="images/services/1.jpg" alt=""> 
+                                            <img src="../images/services/1.jpg" alt="aluminum"> 
                                         </div>                                        
                                         <div class="text-left">
-                                            <h4 class="wt-title m-b20">Chemical Research</h4>
+                                            <h4 class="wt-title m-b20"> UPVC Windows Installation    </h4>
                                         </div>
-                                        <p>Engineering is concerned with the development, improvement, and implementation of inte grated systems of people, money, knowledge, information, equipment, energy, materials, analysis and synthesis, as well as the mathematical, physical and social sciences together with the principles and methods of engineering design to specify, predict, and evaluate the results to be obtained from such systems or processes.</p>                                   
+                                        <p>Are you looking for durable, stylish, and low-maintenance windows for your home or office? UPVC windows are an excellent choice! Made from Unplasticized Polyvinyl Chloride (UPVC), these windows offer strength, insulation, and a sleek look without costing a fortune. Here's why UPVC windows might be perfect for you.</p>                                   
 
                                         <div class="wt-info">
-                                            <p>Concerned with the development, improvement, and implementation of integrated system of people, money, knowledge, information, equipment, energy, materials, analysis and syn thesis, as well as the mathematical, physical and social sciences together with the principle and methods of engineering design to specify, predict, and evaluate the results to be obtained from such systems or processes.</p>
-                                            <div class="row">
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="images/services/s/1.jpg" alt=""></div>
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="images/services/s/2.jpg" alt=""></div>
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="images/services/s/3.jpg" alt=""></div>
-                                              </div>                                            
-                                            <blockquote class="m-b30 site-bg-black p-a50">
-                                                <i class="fa fa-quote-left font-20"></i>
-                                                <p>Raising a heavy fur muff that covered the whole of her lower arm towards the viewer gregor then turned to look out
-                                                </p>
-                                                <div class="p-t15 text-uppercase">
-                                                    <strong>_William Jomurray</strong>
-                                                </div>
+                                         
+                                            <h4 class="wt-title m-b20"> Benefits of UPVC Windows  </h4>
+                                            <h5 class="wt-title m-b20"> Energy Efficiency  </h5>
+                                            <p>UPVC windows are well-known for their excellent insulation properties. They assist in maintaining a warm home during winter and a cool one in summer by minimizing heat transfer. This means lower energy bills and a comfortable indoor environment all year round.</p>
+                                            <h5 class="wt-title m-b20"> Durability and Low Maintenance</h5>
+                                            <p>One of the best things about UPVC windows is that they’re highly durable. Unlike wooden windows that may warp or rot, UPVC windows resist weather conditions, moisture, and termites. They’re designed to last for years without any significant maintenance. A simple wipe with a damp cloth keeps them looking as good as new.</p>
+                                            <h5 class="wt-title m-b20"> Noise Reduction </h5>
+                                            <p>UPVC windows are excellent for reducing noise, making them a great option for homes or offices in busy areas. Their multi-layered insulation and sealing keep the unwanted noise out, giving you a peaceful environment indoors.</p>
+                                            <h5 class="wt-title m-b20"> Security </h5>
+                                            <p>Safety is a priority for any home or office. UPVC windows come with sturdy frames and advanced locking systems, providing high levels of security. They’re difficult to break or tamper with, offering you peace of mind when it comes to home security.</p>
+                                            <h4 class="wt-title m-b20"> Eco-Friendly Option </h4>
+                                            <p>Choosing UPVC windows is also a greener choice. They’re fully recyclable and require less energy to produce than traditional window materials. They’re also highly efficient, so you’re reducing your carbon footprint by saving on heating and cooling.</p>
+                                            <h4 class="wt-title m-b20"> Ready for a Consultation? </h4>
+                                            <p>Let us help you upgrade your windows to UPVC! Contact us today for a free consultation and learn more about how UPVC windows can improve your home or office with AS Enterprises UPVC windows.</p>
                                             
-                                            </blockquote>                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            <div class="row">
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/1.jpg" alt="aluminum"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/2.jpg" alt="aluminum"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/3.jpg" alt="aluminum"></div>
+                                              </div>                                            
+                                                                                     
                                         </div>
                                     </div>
 
                                     <div class="service-provide p-a30  site-bg-gray-light">
-                                        <h4 class="wt-title m-b20">Why Choose Us?</h4>
-                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                                      <h4 class="wt-title m-b20">Why Choose Us as Your UPVC Windows Provider?</h4>
+                                            <p>AS Enterprises provides top-quality UPVC windows that combine performance with aesthetics. We offer a wide range of styles, colors, and finishes to suit any property’s look. Our team is dedicated to finding the ideal option that suits both your space and budget needs. With our expert installation services and attention to detail, you can trust us to deliver windows that enhance your home’s value, comfort, and appearance.</p>
+                                            
                                         <div class="row align-items-center">
                                       
                                             <div class="col-md-6">
                                                 <div class="wt-media">
-                                                    <img src="images/services/s/4.jpg" alt=""> 
+                                                    <img src="../images/services/s/4.jpg" alt="aluminum"> 
                                                 </div>                                            
                                             </div>
 
                                             <div class="col-md-6">
                                                 <ul class="list-angle-right">
                                                    <li>100% Satisfaction Guarantee.</li>
-                                                   <li> Accurate Testing Processes.</li>
-                                                   <li> 35+ Years Of Experience.</li>
-                                                   <li> Strong Building Materials.</li>
-                                                   <li>Eco-Friendly Build Materials.</li>
+                                                   <li> Quality of Materials. </li>
+                                                   <li> Expert Craftsmanship. </li>
+                                                   <li> Customization Options.</li>
+                                                   <li>Affordable Pricing.</li>
                                                 </ul>
                                             </div> 
 

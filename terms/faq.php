@@ -1,6 +1,6 @@
 <?php ;
 
-include('includes/header.php')
+include('.././includes/header.php')
 
  ?>
 
@@ -8,31 +8,7 @@ include('includes/header.php')
         <!-- CONTENT START -->
         <div class="page-content">
 
-            <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);">
-            	<div class="overlay-main site-bg-black opacity-06"></div>
-                <div class="container">
-                    <div class="wt-bnr-inr-entry">
-                    	<div class="banner-title-outer">
-                        	<div class="banner-title-name">
-                        		<h2 class="wt-title">FAQ</h2>
-                            </div>
-                        </div>
-                        <!-- BREADCRUMB ROW -->                            
-                        
-                            <div>
-                                <ul class="wt-breadcrumb breadcrumb-style-2">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li>FAQ</li>
-                                </ul>
-                            </div>
-                        
-                        <!-- BREADCRUMB ROW END -->                        
-                    </div>
-                </div>
-            </div>
-            <!-- INNER PAGE BANNER END -->
-
+           
             <!-- FAQ SECTION START -->
             <div class="section-full p-t120 p-b90 bg-white">
                 <div class="container">
@@ -57,7 +33,7 @@ include('includes/header.php')
                                             <div class="acod-head  acc-actives">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse" href="#collapseOne5" data-parent="#accordion5" > 
-                                                        Continuously Trained On Safety Issues?
+                                                    What types of aluminum products does AS Enterprises offer?
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
@@ -65,10 +41,7 @@ include('includes/header.php')
                                             <div id="collapseOne5" class="acod-body collapse show">
                                                 <div class="acod-content">
                                                     <p>
-                                                        Will ensure you are properly introduced and integrated.
-                                                        you will be paired with an appropriate person for partner drills.
-                                                        Ask the club about our Level 0 introductory class where everyone is new, or start with Level 1,
-                                                        where participants will have a range of experience, from be
+                                                    AS Enterprises provides a variety of aluminum solutions, including aluminum windows, doors, and partitions. We also offer customized aluminum products to meet specific architectural needs.
                                                     
                                                     </p>
                                                 </div>
@@ -79,14 +52,14 @@ include('includes/header.php')
                                             <div class="acod-head">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse" href="#collapseTwo5" class="collapsed" data-parent="#accordion5" > 
-                                                        How Can We Get Help From You?
+                                                    Do you provide uPVC windows and doors?  
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseTwo5" class="acod-body collapse">
                                                 <div class="acod-content">
-                                                Monday – Friday: 9 to 7pm Saturday: 8 to 6pm Sunday: Closed 
+                                                Yes, we specialize in uPVC windows and doors, which are known for their durability, low maintenance, and excellent insulation properties.
                                                 </div>
                                             </div>
                                         </div>
@@ -95,13 +68,13 @@ include('includes/header.php')
                                             <div class="acod-head">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse" href="#collapseThree5" class="collapsed" data-parent="#accordion5"> 
-                                                        How Are Our workers Working For You?
+                                                    What are the benefits of choosing uPVC over traditional materials? 
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseThree5" class="acod-body collapse">
-                                                <div class="acod-content">You can schedule your appointment by phone, in person or online. Reservations for your appointment are held with a credit card or gift certificate.</div>
+                                                <div class="acod-content">uPVC is energy-efficient, weather-resistant, and requires minimal maintenance compared to traditional wood or metal frames, making it a popular choice for modern homes and offices.</div>
                                             </div>
                                         </div>
                                         
@@ -109,29 +82,17 @@ include('includes/header.php')
                                             <div class="acod-head">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse"  href="#collapseFour5" class="collapsed"  data-parent="#accordion5"> 
-                                                        Do I have to commit to a contract?
+                                                    Can AS Enterprises install glass partitions for office spaces?
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseFour5" class="acod-body collapse">
-                                                <div class="acod-content">No special clothing is required; come as you are! If you are enjoying several services, you will be provided with a robe and slippers. Towels for the eucalyptus steam shower are available. Your personal comfort is always most important to us! Efficiently unleash cross-media information without cross-media value. Quickly timely deliverables. Efficiently unleash cross-media information without cross-media value. Quickly maximize maximized timely deliverables for real-time schemas. Dramatically maintain solutions. Dramatically maintain solutions.Efficiently unleash cross-media information without cross-media value. Quickly maximize timely fixed deliverables for real-time functional schemas.</div>
+                                                <div class="acod-content">Absolutely! We offer glass partitions for offices and commercial spaces, providing a sleek, modern look that enhances both aesthetics and functionality.</div>
                                             </div>
                                         </div>
                 
-                                        <div class="panel wt-panel">
-                                            <div class="acod-head">
-                                                <h4 class="acod-title">
-                                                    <a data-toggle="collapse" href="#collapseFive5" class="collapsed" data-parent="#accordion5" > 
-                                                        Any contracts or commitments?
-                                                        <span class="indicator"><i class="fa fa-plus"></i></span>
-                                                    </a>
-                                                </h4>
-                                            </div>
-                                            <div id="collapseFive5" class="acod-body collapse">
-                                                <div class="acod-content">Your certificate is considered the same as cash. It is necessary to keep track of this valuable property.</div>
-                                            </div>
-                                        </div>
+                                        
                                                                             
                                     </div>
                                 </div>
@@ -143,7 +104,7 @@ include('includes/header.php')
                                             <div class="acod-head  acc-actives">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse" href="#collapseOne6" data-parent="#accordion5" > 
-                                                        How can I pay for my purchases?
+                                                    Do you offer installation services? 
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
@@ -151,10 +112,7 @@ include('includes/header.php')
                                             <div id="collapseOne6" class="acod-body collapse show">
                                                 <div class="acod-content">
                                                     <p>
-                                                        Will ensure you are properly introduced and integrated.
-                                                        you will be paired with an appropriate person for partner drills.
-                                                        Ask the club about our Level 0 introductory class where everyone is new, or start with Level 1,
-                                                        where participants will have a range of experience, from be
+                                                    Yes, our team of professionals provides complete installation services for all our products, ensuring proper fitting and alignment for optimal performance.
                                                     </p>
                                                 </div>
                                             </div>
@@ -164,14 +122,14 @@ include('includes/header.php')
                                             <div class="acod-head">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse" href="#collapseTwo6" class="collapsed" data-parent="#accordion5" > 
-                                                        How much time I will spend on planning?
+                                                    What kind of maintenance do your aluminum and UPVC products require?
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseTwo6" class="acod-body collapse">
                                                 <div class="acod-content">
-                                                Monday – Friday: 9 to 7pm Saturday: 8 to 6pm Sunday: Closed 
+                                                Our aluminum and UPVC products are designed to be low-maintenance. Simple cleaning with mild soap and water is generally sufficient to keep them in good condition. 
                                                 </div>
                                             </div>
                                         </div>
@@ -180,13 +138,13 @@ include('includes/header.php')
                                             <div class="acod-head">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse" href="#collapseThree6" class="collapsed" data-parent="#accordion5"> 
-                                                        Air conditioner is different then others? 
+                                                     How durable are the glass products you use? 
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseThree6" class="acod-body collapse">
-                                                <div class="acod-content">You can schedule your appointment by phone, in person or online. Reservations for your appointment are held with a credit card or gift certificate.</div>
+                                                <div class="acod-content">We use high-quality, tempered glass that is both durable and safe for a wide range of applications, including windows, doors, and partitions.</div>
                                             </div>
                                         </div>
                                         
@@ -194,13 +152,13 @@ include('includes/header.php')
                                             <div class="acod-head">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse"  href="#collapseFour6" class="collapsed"  data-parent="#accordion5"> 
-                                                        How much you charge hourly?
+                                                    What are the options for window designs and styles?
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
                                             </div>
                                             <div id="collapseFour6" class="acod-body collapse">
-                                                <div class="acod-content">No special clothing is required; come as you are! If you are enjoying several services, you will be provided with a robe and slippers. Towels for the eucalyptus steam shower are available. Your personal comfort is always most important to us! Efficiently unleash cross-media information without cross-media value. Quickly timely deliverables. Efficiently unleash cross-media information without cross-media value. Quickly maximize maximized timely deliverables for real-time schemas. Dramatically maintain solutions. Dramatically maintain solutions.Efficiently unleash cross-media information without cross-media value. Quickly maximize timely fixed deliverables for real-time functional schemas.</div>
+                                                <div class="acod-content">We offer a variety of window styles, including sliding, casement, tilt-and-turn, and fixed windows, available in both aluminum and UPVC.</div>
                                             </div>
                                         </div>
                 
@@ -208,13 +166,13 @@ include('includes/header.php')
                                             <div class="acod-head">
                                                 <h4 class="acod-title">
                                                     <a data-toggle="collapse" href="#collapseFive5" class="collapsed" data-parent="#accordion5" > 
-                                                        Why Mechanical Evolution Start? 
+                                                    Do you offer energy-efficient options?
                                                         <span class="indicator"><i class="fa fa-plus"></i></span>
                                                     </a>
                                                 </h4>
                                             </div>
-                                            <div id="collapseFive6" class="acod-body collapse">
-                                                <div class="acod-content">Your certificate is considered the same as cash. It is necessary to keep track of this valuable property.</div>
+                                            <div id="collapseFive5" class="acod-body collapse">
+                                                <div class="acod-content">Yes, our uPVC and aluminum products are designed to reduce heat loss, helping save on energy costs.</div>
                                             </div>
                                         </div>
                                                                             
@@ -279,7 +237,7 @@ include('includes/header.php')
         <!-- CONTENT END -->
         <?php ;
 
-include('includes/footer.php')
+include('.././includes/footer.php')
 
  ?>
 

@@ -59,12 +59,15 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Window Installation</a></h4>
+                                        <h4 class="wt-title">
+                                        <a href="<?= ROOT_PATH ?>/services/upvc_window_installation.php">Window Installation</a>
+                                        </h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>Upgrade to durable, energy-efficient, and secure UPVC windows with AS Enterprises for style, comfort, and low-maintenance benefits. Contact us today!</p>
+                                        <a href="<?= ROOT_PATH ?>/services/upvc_window_installation.php" class="site-button-link site-text-primary">
+                                            Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -81,12 +84,15 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Window Installation </a></h4>
+                                        <h4 class="wt-title">
+                                        <a href="<?= ROOT_PATH ?>/services/upvc_partitions_installation.php">Partition Installation</a>
+                                        </h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>AS Enterprises provides affordable UPVC partition installation services for homes and offices, offering stylish, durable, and customizable solutions for dividing spaces effectively.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/upvc_partitions_installation.php" class="site-button-link site-text-primary">
+                                            Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -103,12 +109,15 @@ include('includes/header.php')
                                     </div> 
                                             
                                     <div class="service-icon-box-title">
-                                        <h4 class="wt-title"><a href="service-detail.html">Window Installations</a></h4>
+                                        <h4 class="wt-title">
+                                        <a href="<?= ROOT_PATH ?>/services/upvc_door_installations.php">Door Installation</a>
+                                        </h4>
                                     </div>
                                     
                                     <div class="service-icon-box-content">
-                                        <p>You can dream, create, design, and build the most wonderful place in the world. But it requires people.</p>
-                                        <a href="service-detail.html" class="site-button-link site-text-primary">Read More</a>
+                                        <p>AS Enterprises offers durable, stylish UPVC doors with affordable installation services, including front, back, and sliding doors for homes and offices.</p>
+                                        <a href="<?= ROOT_PATH ?>/services/upvc_door_installations.php" class="site-button-link site-text-primary">
+                                            Read More</a>
                                     </div>
                                                                                 
                                 </div>
@@ -130,62 +139,66 @@ include('includes/header.php')
 
             </div>   
             <!-- SERVICES SECTION END -->
-             <!-- HELP SECTION START -->
-             <div class="section-full p-t0 p-b0">
-                <div class="container">
-                    <div class="help-blocks">
-                        <div class="row justify-content-center no-gutters">
+            <!-- HELP SECTION START -->
+    <div class="section-full p-t0 p-b0">
+        <div class="container">
+            <div class="help-blocks">
+                <div class="row justify-content-center no-gutters">
 
-                            <!--Block 1-->
-                            <div class="col-lg-4 col-md-6 site-bg-primary">
-                                <div class="help-block-content  white">
-                                    <div class="wt-icon-box-wraper left">
-                                        <div class="wt-icon-box-sm">
-                                            <span class="icon-cell site-bg-dark"><i class="flaticon-lightbulb"></i></span>
-                                        </div>
-                                        <div class="icon-content">
-                                            <h4 class="wt-tilte">Creative Ideas</h4>
-                                            <p>Train with the best experts in bodybuilding field.</p>
-                                        </div>
-                                    </div>
+                    <!--Block 1-->
+                    <div class="col-lg-4 col-md-6 site-bg-primary">
+                        <div class="help-block-content  white">
+                            <div class="wt-icon-box-wraper left">
+                                <div class="wt-icon-box-sm">
+                                    <span class="icon-cell site-bg-dark"><i class="flaticon-lightbulb"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h4 class="wt-tilte"> Customer Satisfaction </h4>
+                                    <p>Making customers happy with great service and care every step of the way.</p>
                                 </div>
                             </div>
-
-                            <!--Block 2-->
-                            <div class="col-lg-4 col-md-6 site-bg-gray">
-                                <div class="help-block-content ">
-                                    <div class="wt-icon-box-wraper left">
-                                        <div class="wt-icon-box-sm">
-                                            <span class="icon-cell site-bg-dark"><i class="flaticon-customer-service"></i></span>
-                                        </div>
-                                        <div class="icon-content">
-                                            <h4 class="wt-tilte">24/7 Support</h4>
-                                            <p>Train with the best experts in bodybuilding field.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            
-                            <!--Block 3-->
-                            <div class="col-lg-4 col-md-6  site-bg-black">
-                                <div class="help-block-content white">
-                                    <div class="wt-icon-box-wraper left">
-                                        <div class="wt-icon-box-sm">
-                                            <span class="icon-cell site-bg-dark"><i class="flaticon-antivirus"></i></span>
-                                        </div>
-                                        <div class="icon-content">
-                                            <h4 class="wt-tilte">Super Safety</h4>
-                                            <p>Train with the best experts in bodybuilding field.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> 
-
                         </div>
                     </div>
+
+                    <!--Block 2-->
+                    <div class="col-lg-4 col-md-6 site-bg-gray">
+                        <div class="help-block-content ">
+                            <div class="wt-icon-box-wraper left">
+                                <div class="wt-icon-box-sm">
+                                    <span class="icon-cell site-bg-dark"><i
+                                            class="flaticon-customer-service"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h4 class="wt-tilte"> Premium Quality </h4>
+                                    <p> Offering top-quality items built to last and exceed customer expectations.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Block 3-->
+                    <div class="col-lg-4 col-md-6  site-bg-black">
+                        <div class="help-block-content white">
+                            <div class="wt-icon-box-wraper left">
+                                <div class="wt-icon-box-sm">
+                                    <span class="icon-cell site-bg-dark"><i class="flaticon-antivirus"></i></span>
+                                </div>
+                                <div class="icon-content">
+                                    <h4 class="wt-tilte"> Customized Products </h4>
+                                    <p>Personalized products are designed to fit each customer's style and needs
+                                        perfectly.
+
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
                 </div>
             </div>
-            <!-- HELP SECTION End -->
+        </div>
+    </div>
+    <!-- HELP SECTION End -->
 
             <!-- SOME FACTS START -->
             <div class="section-full p-t120 p-b120 bg-cover" style="background-image:url(images/background/bg10.jpg);">

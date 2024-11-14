@@ -108,17 +108,17 @@ include('includes/header.php')
                                             
                                             <div class="c-info-column">
                                                 <span class="m-t0">Address info</span>
-                                                <p>1363-1385 Sunset Blvd Los Angeles, CA 90026, USA</p>
+                                                <p>1 STAGE KIADB Kapnoor Industrial Area plot no.36/C 6th cross, near Rahman Masjid Kalaburgi-585104 Gulbarga, Karnataka</p>
                                             </div>  
 
                                             <div class="c-info-column">
                                                 <span class="m-t0">Phone number</span>
-                                                <p>(+291) 0987 654 321</p>
+                                                <p>+91-9535452209, +91-9986338333</p>
                                             </div>
 
                                             <div class="c-info-column">
                                                 <span class="m-t0">Email address</span>
-                                                <p>thewebmax@gmail.com</p>
+                                                <p>asenterprises1569@gmail.com</p>
                                             </div>
                                         
                                     </div>
@@ -137,8 +137,7 @@ include('includes/header.php')
             <div class="container">   
                 <div class="gmap-outline p-b120">
                     <!-- <div id="gmap_canvas2" class="google-map"></div> -->
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25422.912519939124!2d76.82606442985035!3d17.388368515863842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc8c7b0fb0e812d%3A0x124c97f1308536bc!2sIndustrial%20Area%2C%20Kapnoor%2C%20Kalaburagi%2C%20Karnataka!5e1!3m2!1sen!2sin!4v1730894213211!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                </div>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d30232.96119890816!2d76.82543107854237!3d17.389259627726034!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc8c7b0fb0e812d%3A0x124c97f1308536bc!2sIndustrial%20Area%2C%20Kapnoor%2C%20Kalaburagi%2C%20Karnataka!5e1!3m2!1sen!2sin!4v1731563708823!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>                </div>
             </div>
         </div>         
 
