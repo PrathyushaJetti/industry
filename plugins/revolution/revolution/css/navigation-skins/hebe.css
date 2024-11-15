@@ -43,13 +43,13 @@ website:    http://www.themepunch.com
   content: "\e825";
 }
 .hebe.tparrows:hover:before {
- color:#000;
+ color:#2B7FB2;
       }
 .tp-title-wrap { 
   position:absolute;
   z-index:0;
   display:inline-block;
-  background:#000;
+  background:#2B7FB2;
   background:rgba(0,0,0,0.75);
   min-height:60px;
   line-height:60px;

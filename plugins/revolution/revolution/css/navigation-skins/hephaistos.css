@@ -11,7 +11,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .hephaistos.tparrows {
 	cursor:pointer;
-	background:#000;
+	background:#2B7FB2;
 	background:rgba(0,0,0,0.5);
 	width:40px;
 	height:40px;
@@ -21,7 +21,7 @@ website:    http://www.themepunch.com
     border-radius:50%;
 }
 .hephaistos.tparrows:hover {
-	background:#000;
+	background:#2B7FB2;
 }
 .hephaistos.tparrows:before {
 	font-family: "revicons";
@@ -71,7 +71,7 @@ website:    http://www.themepunch.com
 .hephaistos .tp-bullet:hover,
 .hephaistos .tp-bullet.selected {
 	background:#fff;
-    border-color:#000;
+    border-color:#2B7FB2;
 }
 .hephaistos .tp-bullet-image {
 }

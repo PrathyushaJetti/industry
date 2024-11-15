@@ -40,7 +40,7 @@ website:    http://www.themepunch.com
   content: "\e81e";
 }
 .ares.tparrows:hover:before {
- color:#000;
+ color:#2B7FB2;
       }
 .ares .tp-title-wrap { 
   position:absolute;
@@ -76,7 +76,7 @@ border-radius:30px 0px 0px 30px;
   transition: transform 0.3s;
   transform:translateX(200px);  
   text-transform:uppercase;
-  color:#000;
+  color:#2B7FB2;
   font-weight:400;
   font-size:14px;
   line-height:60px;
@@ -252,7 +252,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .custom.tparrows {
 	cursor:pointer;
-	background:#000;
+	background:#2B7FB2;
 	background:rgba(0,0,0,0.5);
 	width:40px;
 	height:40px;
@@ -261,7 +261,7 @@ website:    http://www.themepunch.com
 	z-index:10000;
 }
 .custom.tparrows:hover {
-	background:#000;
+	background:#2B7FB2;
 }
 .custom.tparrows:before {
 	font-family: "revicons";
@@ -419,7 +419,7 @@ visibility:visible;
     width:50px;
     height:50px;    
     padding:3px;
-    background:#000;
+    background:#2B7FB2;
     background-color:rgba(0,0,0,0.25);
     margin:0px;
     box-sizing:border-box;
@@ -445,7 +445,7 @@ visibility:visible;
    bottom:65px;
      display:inline-block;
      left:50%;
-     background:#000;
+     background:#2B7FB2;
      background:rgba(0,0,0,0.75);
      color:#fff;
      padding:10px 30px;
@@ -508,7 +508,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .erinyen.tparrows {
   cursor:pointer;
-  background:#000;
+  background:#2B7FB2;
   background:rgba(0,0,0,0.5);
   min-width:70px;
   min-height:70px;
@@ -539,7 +539,7 @@ website:    http://www.themepunch.com
   position:absolute;
   z-index:1;
   display:inline-block;
-  background:#000;
+  background:#2B7FB2;
   background:rgba(0,0,0,0.5);
   min-height:70px;
   line-height:70px;
@@ -612,7 +612,7 @@ website:    http://www.themepunch.com
   position:absolute;
   top:0px;
   left:0px;
-   background:#000;
+   background:#2B7FB2;
    background:rgba(0,0,0,0.5);
         }
 .erinyen.tp-rightarrow .tp-arr-titleholder {
@@ -683,7 +683,7 @@ opacity:1
 }
 
 .erinyen .tp-thumb-over {
-  background:#000;
+  background:#2B7FB2;
   background:rgba(0,0,0,0.25);
   width:100%;
   height:100%;
@@ -747,7 +747,7 @@ opacity:1
 }
 .erinyen .tp-thumb.selected .tp-thumb-title,
 .erinyen .tp-thumb:hover .tp-thumb-title {
-  color:#000;
+  color:#2B7FB2;
 
 }
 
@@ -843,7 +843,7 @@ website:    http://www.themepunch.com
   }
 .gyges .tp-thumb-img-wrap {
   padding:3px;
-    background:#000;
+    background:#2B7FB2;
   background-color:rgba(0,0,0,0.25);
   display:inline-block;
 
@@ -993,7 +993,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .hades.tparrows {
 	cursor:pointer;
-	background:#000;
+	background:#2B7FB2;
 	background:rgba(0,0,0,0.15);
 	width:100px;
 	height:100px;
@@ -1146,7 +1146,7 @@ website:    http://www.themepunch.com
   border-radius:50%;
   padding:3px;
   display:inline-block;
-background:#000;
+background:#2B7FB2;
   background-color:rgba(0,0,0,0.25);
   width:100%;
   height:100%;
@@ -1281,13 +1281,13 @@ website:    http://www.themepunch.com
   content: "\e825";
 }
 .hebe.tparrows:hover:before {
- color:#000;
+ color:#2B7FB2;
       }
 .hebe .tp-title-wrap { 
   position:absolute;
   z-index:0;
   display:inline-block;
-  background:#000;
+  background:#2B7FB2;
   background:rgba(0,0,0,0.75);
   min-height:60px;
   line-height:60px;
@@ -1445,7 +1445,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .hephaistos.tparrows {
 	cursor:pointer;
-	background:#000;
+	background:#2B7FB2;
 	background:rgba(0,0,0,0.5);
 	width:40px;
 	height:40px;
@@ -1455,7 +1455,7 @@ website:    http://www.themepunch.com
     border-radius:50%;
 }
 .hephaistos.tparrows:hover {
-	background:#000;
+	background:#2B7FB2;
 }
 .hephaistos.tparrows:before {
 	font-family: "revicons";
@@ -1505,7 +1505,7 @@ website:    http://www.themepunch.com
 .hephaistos .tp-bullet:hover,
 .hephaistos .tp-bullet.selected {
 	background:#fff;
-    border-color:#000;
+    border-color:#2B7FB2;
 }
 .hephaistos .tp-bullet-image {
 }
@@ -1526,7 +1526,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .hermes.tparrows {
 	cursor:pointer;
-	background:#000;
+	background:#2B7FB2;
 	background:rgba(0,0,0,0.5);
 	width:30px;
 	height:110px;
@@ -1606,7 +1606,7 @@ website:    http://www.themepunch.com
   text-align:left; 
   display:block;
   padding:0px 10px;
-  line-height:30px; background:#000;
+  line-height:30px; background:#2B7FB2;
   background:rgba(0,0,0,0.75);color:#fff;
   font-weight:600; position:absolute;
   font-size:12px;
@@ -1749,7 +1749,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .hesperiden.tparrows {
 	cursor:pointer;
-	background:#000;
+	background:#2B7FB2;
 	background:rgba(0,0,0,0.5);
 	width:40px;
 	height:40px;
@@ -1759,7 +1759,7 @@ website:    http://www.themepunch.com
     border-radius: 50%;
 }
 .hesperiden.tparrows:hover {
-	background:#000;
+	background:#2B7FB2;
 }
 .hesperiden.tparrows:before {
 	font-family: "revicons";
@@ -1835,7 +1835,7 @@ website:    http://www.themepunch.com
     color:#fff;
     display:block;
     z-index:10000;
-    background-color:#000;
+    background-color:#2B7FB2;
     padding:5px 10px; 
     bottom:0px;
     left:0px;
@@ -1950,7 +1950,7 @@ website:    http://www.themepunch.com
  }
  
  .metis.tparrows:before {
-  color:#000;  
+  color:#2B7FB2;  
    transition:all 0.3s;
   -webkit-transition:all 0.3s;
  }
@@ -1966,7 +1966,7 @@ website:    http://www.themepunch.com
     width:50px;
     height:50px;    
     padding:3px;
-    background:#000;
+    background:#2B7FB2;
     background-color:rgba(0,0,0,0.25);
     margin:0px;
     box-sizing:border-box;
@@ -1994,7 +1994,7 @@ website:    http://www.themepunch.com
 	 bottom:65px;
      display:inline-block;
      left:50%;
-     background:#000;
+     background:#2B7FB2;
      background:rgba(0,0,0,0.75);
      color:#fff;
      padding:10px 30px;
@@ -2316,7 +2316,7 @@ website:    http://www.themepunch.com
 }
 
 .zeus .tp-title-wrap {
-  background:#000;
+  background:#2B7FB2;
   background:rgba(0,0,0,0.5);
   width:100%;
   height:100%;
@@ -2399,7 +2399,7 @@ website:    http://www.themepunch.com
         width:135px;
         height:60px;
         position:absolute;
-        background:#000;
+        background:#2B7FB2;
         background:rgba(0,0,0,0.5);
         bottom:25px;
         left:50%;
@@ -2463,7 +2463,7 @@ opacity:1
 }
 
 .zeus .tp-thumb-over {
-  background:#000;
+  background:#2B7FB2;
   background:rgba(0,0,0,0.25);
   width:100%;
   height:100%;
@@ -2523,7 +2523,7 @@ opacity:1
 
 .zeus .tp-thumb.selected .tp-thumb-over,
 .zeus .tp-thumb:hover .tp-thumb-over {
- background:#000;
+ background:#2B7FB2;
 }
 .zeus .tp-thumb.selected .tp-thumb-title,
 .zeus .tp-thumb:hover .tp-thumb-title {
@@ -2551,7 +2551,7 @@ padding: 9px 10px; }
 
 .zeus .tp-tab:hover .tp-tab-title,
 .zeus .tp-tab.selected .tp-tab-title {
- color: #000;
+ color: #2B7FB2;
   background:rgba(255,255,255,1); 
 }
 
@@ -2637,6 +2637,6 @@ opacity:1
 }
 .post-tabs .tp-thumb.selected .tp-thumb-title,
 .post-tabs .tp-thumb:hover .tp-thumb-title {
-  color:#000;
+  color:#2B7FB2;
 
 }

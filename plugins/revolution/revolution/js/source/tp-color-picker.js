@@ -433,7 +433,7 @@
 	var defColors = [
 	
 		'#FFFFFF', 
-		'#000000', 
+		'#2B7FB2000', 
 		'#FF3A2D', 
 		'#007AFF', 
 		'#4CD964', 
