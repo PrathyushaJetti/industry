@@ -17,7 +17,7 @@ include('.././includes/header.php');
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);" alt="aluminum" >
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(../img/alu-Partition%20-installation-banner.webp);" alt="aluminum" >
             	<div class="overlay-main site-bg-black opacity-06"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -112,9 +112,9 @@ include('.././includes/header.php');
                                             
                                             
                                             <div class="row">
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/1.jpg" alt="aluminum"></div>
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/2.jpg" alt="aluminum"></div>
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/3.jpg" alt="aluminum"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../img/Aluminum-partition-instal-2.webp" alt="aluminum"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../img/Aluminum-partition-instal-3.webp" alt="aluminum"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../img/Aluminum-partition-instal-4.webp" alt="aluminum"></div>
                                               </div>                                            
                                                                                      
                                         </div>
@@ -129,7 +129,7 @@ include('.././includes/header.php');
                                       
                                             <div class="col-md-6">
                                                 <div class="wt-media">
-                                                    <img src="../images/services/s/4.jpg" alt="aluminum"> 
+                                                    <img src="../img/Aluminum-partition-instal-1.webp" alt="aluminum"> 
                                                 </div>                                            
                                             </div>
 

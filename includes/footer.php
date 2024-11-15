@@ -24,9 +24,9 @@
                 <div class="widget widget_services">
                     <h3 class="widget-title">Services</h3>
                     <ul>
-                        <li><a href=""> Aluminum Work</a></li>
-                        <li><a href="service-detail.html">UPVC Work</a></li>
-                        <li><a href="service-detail.html">Glass Work</a></li>
+                        <li><a href="<?= ROOT_PATH ?>aluminum-profiles.php"> Aluminum Work</a></li>
+                        <li><a href="<?= ROOT_PATH ?>upvc-profiles.php">UPVC Work</a></li>
+                        <li><a href="<?= ROOT_PATH ?>glass-work.php">Glass Work</a></li>
                         
                     </ul>
                 </div>
@@ -42,7 +42,7 @@
                         <li><a href="<?= ROOT_PATH ?>portfolio.php">Portfolio</a></li>
                         <!-- <li><a href="blog-grid.html">Blog</a></li> -->
                         
-                        <li><a href="<?= ROOT_PATH ?>contact.html">Contact Us</a></li>
+                        <li><a href="<?= ROOT_PATH ?>contact.php">Contact Us</a></li>
                         <li><a href="<?= ROOT_PATH ?>/terms/faq.php">FAQ'S</a></li>
                         <li><a href="<?= ROOT_PATH ?>/terms/terms.php">Terms &Conditions</a></li>
                         <li><a href="<?= ROOT_PATH ?>/terms/privacy-policy.php">privacy policy </a></li>

@@ -60,7 +60,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
             position: absolute;
             background-color: white;
             /* White background */
-            width: 800%;
+            width: 820%;
             /* Full width on desktop */
             box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
             z-index: 1;
@@ -245,7 +245,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                                     Window Installation </a>
                                                 <a href="<?= ROOT_PATH ?>/services/aluminum_partition_installation.php">
                                                     Partition Installation </a>
-                                                <a href="<?= ROOT_PATH ?>/services/aluminum_door_installation.php"> Door
+                                                <a href="<?= ROOT_PATH ?>services/aluminum_door_installation.php"> Door
                                                     Installation </a>
                                                 <a href="<?= ROOT_PATH ?>/services/glazing_work.php"> Glazing Work </a>
                                                 <a href="<?= ROOT_PATH ?>/services/profile_door_installation.php">

@@ -16,7 +16,7 @@ include('.././includes/header.php');
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);" alt="aluminum" >
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(../img/Patch%20fitting-banner.webp);" alt="aluminum" >
             	<div class="overlay-main site-bg-black opacity-06"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">

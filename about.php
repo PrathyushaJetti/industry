@@ -9,7 +9,7 @@ include('includes/header.php')
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(img/about-banner.webp);">
             	<div class="overlay-main site-bg-black opacity-06"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -22,8 +22,8 @@ include('includes/header.php')
                         
                             <div>
                                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li>About 1</li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li>About Us</li>
                                 </ul>
                             </div>
                         

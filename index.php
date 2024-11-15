@@ -24,15 +24,15 @@ include('includes/header.php')
                     <!-- SLIDE 1 -->
                     <li data-index="rs-901" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                         data-hideslideonmobile="off" data-easein="default" data-easeout="default"
-                        data-masterspeed="default" data-thumb="images/main-slider/slider1/slide1.jpg" data-rotate="0"
+                        data-masterspeed="default" data-thumb="img/Enterprises-banner-1.webp" data-rotate="0"
                         data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7"
                         data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2=""
                         data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                         data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
 
-                        <img src="images/main-slider/slider1/slide1.jpg" alt=""
-                            data-lazyload="images/main-slider/slider1/slide1.jpg" data-bgposition="center center"
+                        <img src="img/Enterprises-banner-1.webp" alt=""
+                            data-lazyload="img/Enterprises-banner-1.webp" data-bgposition="center center"
                             data-kenburns="on" data-duration="10000" data-ease="Power1.easeOut" data-scalestart="110"
                             data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0"
                             data-offsetend="0 0" class="rev-slidebg" data-no-retina>
@@ -139,15 +139,15 @@ include('includes/header.php')
                     <!-- SLIDE 2 -->
                     <li data-index="rs-902" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                         data-hideslideonmobile="off" data-easein="default" data-easeout="default"
-                        data-masterspeed="default" data-thumb="images/main-slider/slider1/slide2.jpg" data-rotate="0"
+                        data-masterspeed="default" data-thumb="img/Enterprises-banner-2.webp" data-rotate="0"
                         data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7"
                         data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2=""
                         data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                         data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
 
-                        <img src="images/main-slider/slider1/slide2.jpg" alt=""
-                            data-lazyload="images/main-slider/slider1/slide2.jpg" data-bgposition="center center"
+                        <img src="img/Enterprises-banner-2.webp" alt=""
+                            data-lazyload="img/Enterprises-banner-2.webp" data-bgposition="center center"
                             data-kenburns="on" data-duration="10000" data-ease="Power1.easeOut" data-scalestart="110"
                             data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0"
                             data-offsetend="0 0" class="rev-slidebg" data-no-retina>
@@ -254,15 +254,15 @@ include('includes/header.php')
                     <!-- SLIDE 3 -->
                     <li data-index="rs-903" data-transition="fade" data-slotamount="default" data-hideafterloop="0"
                         data-hideslideonmobile="off" data-easein="default" data-easeout="default"
-                        data-masterspeed="default" data-thumb="images/main-slider/slider1/slide2.jpg" data-rotate="0"
+                        data-masterspeed="default" data-thumb="img/Enterprises-banner-3.webp" data-rotate="0"
                         data-fstransition="fade" data-fsmasterspeed="300" data-fsslotamount="7"
                         data-saveperformance="off" data-title="Slide Title" data-param1="Additional Text" data-param2=""
                         data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8=""
                         data-param9="" data-param10="" data-description="">
                         <!-- MAIN IMAGE -->
 
-                        <img src="images/main-slider/slider1/slide3.jpg" alt=""
-                            data-lazyload="images/main-slider/slider1/slide3.jpg" data-bgposition="center center"
+                        <img src="img/Enterprises-banner-3.webp" alt=""
+                            data-lazyload="img/Enterprises-banner-3.webp" data-bgposition="center center"
                             data-kenburns="on" data-duration="10000" data-ease="Power1.easeOut" data-scalestart="110"
                             data-scaleend="100" data-rotatestart="0" data-rotateend="0" data-offsetstart="0 0"
                             data-offsetend="0 0" class="rev-slidebg" data-no-retina>
@@ -386,7 +386,7 @@ include('includes/header.php')
 
                         <div class="col-lg-6 col-md-12 m-b30">
                             <div class="about-max-one">
-                                <div class="about-max-one-media"><img src="images/intro-pic.jpg" alt=""></div>
+                                <div class="about-max-one-media"><img src="img/ABOUT US.webp" alt=""></div>
                             </div>
                         </div>
 
@@ -451,7 +451,7 @@ include('includes/header.php')
     <!-- ABOUT ONE SECTION END -->
 
     <!-- SOME FACTS START -->
-    <div class="section-full p-t120 p-b120 bg-cover" style="background-image:url(images/background/bg10.jpg);">
+    <div class="section-full p-t120 p-b120 bg-cover" style="background-image:url(img/about-us-banner.webp);">
         <div class="container">
             <div class="section-content">
                 <div class="row justify-content-center d-flex align-items-center">
@@ -534,7 +534,7 @@ include('includes/header.php')
                             <div class="video-section-first overlay-wraper bg-cover"
                                 style="background-image: url(images/background/bg-2.jpg);">
                                 <div class="overlay-main site-bg-primary opacity-07"></div>
-                                <a href="https://www.youtube.com/watch?v=c1XNqw2gSbU" class="mfp-video play-now-video">
+                                <a href="img/as-video.mp4" class="mfp-video play-now-video">
                                     <i class="icon fa fa-play"></i>
                                     <span class="ripple"></span>
                                 </a>
@@ -552,121 +552,7 @@ include('includes/header.php')
     </div>
     <!-- SOME FACTS END -->
 
-    <!-- OUR TEAM START -->
-    <div class="section-full p-t120 p-b90">
-
-        <div class="container">
-
-            <!-- TITLE START-->
-            <div class="wt-separator-two-part">
-                <div class="row wt-separator-two-part-row">
-                    <div class="col-lg-8 col-md-12 wt-separator-two-part-left">
-                        <!-- TITLE START-->
-                        <div class="section-head left wt-small-separator-outer">
-                            <div class="wt-small-separator site-text-primary">
-                                <div class="sep-leaf-left"></div>
-                                <div>Team of Professionals</div>
-                            </div>
-                            <h2>Expert Contractors</h2>
-                        </div>
-                        <!-- TITLE END-->
-                    </div>
-
-
-                    <div class="col-lg-4 col-md-12 wt-separator-two-part-right text-right">
-                        <a href="our-team.html" class="site-button sb-bdr-dark">Learn More</a>
-                    </div>
-
-                </div>
-            </div>
-            <!-- TITLE END-->
-
-            <div class="section-content">
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                        <div class="wt-team-1">
-
-                            <div class="wt-media">
-                                <img src="images/team/pic1.jpg" alt="">
-                            </div>
-
-                            <div class="wt-info">
-                                <div class="team-detail">
-                                    <span class="team-position">Mechanical Engineer</span>
-                                    <h4 class="m-t0 team-name"><a href="our-team-detail.html">William Dixon</a></h4>
-                                    <div class="team-social-center">
-                                        <ul class="team-social-bar">
-                                            <li><a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-pinterest"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                        <div class="wt-team-1">
-
-                            <div class="wt-media">
-                                <img src="images/team/pic2.jpg" alt="">
-                            </div>
-
-                            <div class="wt-info">
-                                <div class="team-detail">
-                                    <span class="team-position">Industry Expert</span>
-                                    <h4 class="m-t0 team-name"><a href="our-team-detail.html">Gabriela Flores</a></h4>
-                                    <div class="team-social-center">
-                                        <ul class="team-social-bar">
-                                            <li><a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-pinterest"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                    <div class="col-lg-4 col-md-6 col-sm-12 m-b30">
-                        <div class="wt-team-1">
-
-                            <div class="wt-media">
-                                <img src="images/team/pic3.jpg" alt="">
-                            </div>
-
-                            <div class="wt-info">
-                                <div class="team-detail">
-                                    <span class="team-position">Mechanical Engineer</span>
-                                    <h4 class="m-t0 team-name"><a href="our-team-detail.html">Juliana Bryant</a></h4>
-                                    <div class="team-social-center">
-                                        <ul class="team-social-bar">
-                                            <li><a href="javascript:void(0);"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-twitter"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-linkedin"></i></a></li>
-                                            <li><a href="javascript:void(0);"><i class="fa fa-pinterest"></i></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-
-                            </div>
-
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-    <!-- OUR TEAM SECTION END -->
-
+   
     <!-- SERVICES SECTION START -->
     <div class="section-full half-section-outer-1  bg-white">
         <div class="half-section-top p-t120 site-bg-primary"
@@ -811,62 +697,7 @@ include('includes/header.php')
     </div>
     <!-- SERVICES SECTION END -->
 
-    <!-- BUILD FUTURE START -->
-    <div class="section-full bg-white">
-
-        <div class="container-fluid future-section-outer ">
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 future-section-left bg-cover"
-                    style="background-image:url(images/background/bg12.jpg);">
-
-                </div>
-                <div class="col-xl-6 col-lg-6 future-section-right bg-white">
-                    <div class="future-sec-right-content">
-                        <div class="future-right-inner">
-                            <div class="section-head left wt-small-separator-outer">
-                                <div class="wt-small-separator site-text-primary">
-                                    <div class="sep-leaf-left"></div>
-                                    <div>Build Future</div>
-                                </div>
-                                <h2 class="wt-title">We provide the highest
-                                    quality of work that meets
-                                    your expectations</h2>
-                            </div>
-
-                            <div class="our-future">
-                                <span class="progressText "><B>Industry</B></span>
-                                <div class="progress">
-                                    <div class="progress-bar site-bg-primary progress-bar-striped progress-bar-animated"
-                                        role="progressbar" style="width: 92%;" aria-valuenow="92" aria-valuemin="0"
-                                        aria-valuemax="100"></div><span> 80%</span>
-                                </div>
-
-
-                                <span class="progressText "><B>Construction</B></span>
-                                <div class="progress">
-                                    <div class="progress-bar site-bg-primary progress-bar-striped progress-bar-animated"
-                                        role="progressbar" style="width: 84%;" aria-valuenow="84" aria-valuemin="0"
-                                        aria-valuemax="100"></div><span> 90%</span>
-                                </div>
-
-                                <span class="progressText "><B>Factory</B></span>
-                                <div class="progress">
-                                    <div class="progress-bar site-bg-primary progress-bar-striped progress-bar-animated"
-                                        role="progressbar" style="width: 72%;" aria-valuenow="72" aria-valuemin="0"
-                                        aria-valuemax="100"></div><span>95%</span>
-                                </div>
-
-                            </div>
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-    </div>
-    <!-- BUILD FUTURE END -->
+    
 
     <!-- TESTIMONIAL SECTION START -->
     <div class="section-full  p-t120 p-b90 testimonial-1-outer bg-white">
@@ -1172,7 +1003,7 @@ include('includes/header.php')
 
 <!-- CLIENT LOGO SECTION START -->
 <div class="section-full site-bg-gray-light p-t120 p-b90 bg-cover"
-    style="background-image:url(images/background/bg11.jpg);">
+   style="background-image:url(img/Enterprises-6.webp);">
     <div class="container home-client-outer">
 
         <!-- TITLE START-->
@@ -1185,157 +1016,7 @@ include('includes/header.php')
         </div>
         <!-- TITLE END-->
 
-        <div class="section-content">
-
-            <div class="owl-carousel home-client-carousel owl-btn-vertical-center">
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w1.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w2.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w3.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w4.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w5.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w6.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w1.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w2.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w3.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w4.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w5.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w6.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w1.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w2.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w3.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w4.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w5.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <div class="ow-client-logo">
-                        <div class="client-logo client-logo-media">
-                            <a href="javascript:void(0);"><img src="images/client-logo/w6.png" alt=""></a>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
+        
     </div>
     <div class="container">
         <div class="help-blocks m-t50 m-b30">
