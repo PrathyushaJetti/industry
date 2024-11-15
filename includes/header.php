@@ -8,13 +8,14 @@ define('ROOT_PATH', 'http://localhost/industry/');
 <head>
 
     <!-- META -->
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="keywords" content="" />
-    <meta name="author" content="" />
-    <meta name="robots" content="" />
-    <meta name="description" content="" />
-
+    <title><?php $title = isset($meta['title']) ? $meta['title'] : 'AS Enterprises';
+    echo $title; ?></title>
+    <meta name="description" content="<?php 
+    $title = isset($meta['description']) ? $meta['description'] : 'AS Enterprises';
+    echo $meta['description'] ;?>">
+    <meta name="keywords" content="<?php 
+    $title = isset($meta['keywords']) ? $meta['keywords'] : 'AS Enterprises';
+    echo $meta['keywords'] ;?>">
     <!-- FAVICONS ICON -->
     <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
     <link rel="shortcut icon" type="image/x-icon" href="<?= ROOT_PATH ?>img/logo.png" />
@@ -173,7 +174,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                         <div class="logo-header">
                             <div class="logo-header-inner logo-header-one">
                                 <a href="<?= ROOT_PATH ?>">
-                                    <img src="<?= ROOT_PATH ?>/img/logo.png" alt="">
+                                    <img src="<?= ROOT_PATH ?>img/logo.png" alt="">
                                 </a>
                             </div>
                         </div>
@@ -191,7 +192,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                         <div class="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
 
                             <ul class="nav navbar-nav">
-                                <li class="active has-child"><a href="<?= ROOT_PATH ?>/index.php">Home</a>
+                                <li class="active has-child"><a href="<?= ROOT_PATH ?>index.php">Home</a>
                                     <!-- <div class="fa fa-angle-right submenu-toogle"></div> 
                                      <ul class="sub-menu">
                                          <li><a href="index.html">Industry 1</a></li>                                       
@@ -203,7 +204,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                 </li>
 
                                 <li class="has-child">
-                                    <a href="<?= ROOT_PATH ?>/about.php">About us</a>
+                                    <a href="<?= ROOT_PATH ?>about.php">About us</a>
                                     <!-- <div class="fa fa-angle-right submenu-toogle"></div>
                                      <ul class="sub-menu">
                                          <li><a href="javascript:;">About</a><div class="fa fa-angle-right submenu-toogle"></div>
@@ -241,35 +242,35 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                         <div class="row_header">
                                             <div class="column" style="background-color:white;color:black">
                                                 <h3> Aluminum </h3>
-                                                <a href="<?= ROOT_PATH ?>/services/aluminum_window_installation.php">
+                                                <a href="<?= ROOT_PATH ?>services/aluminum_window_installation.php">
                                                     Window Installation </a>
-                                                <a href="<?= ROOT_PATH ?>/services/aluminum_partition_installation.php">
+                                                <a href="<?= ROOT_PATH ?>services/aluminum_partition_installation.php">
                                                     Partition Installation </a>
                                                 <a href="<?= ROOT_PATH ?>services/aluminum_door_installation.php"> Door
                                                     Installation </a>
-                                                <a href="<?= ROOT_PATH ?>/services/glazing_work.php"> Glazing Work </a>
-                                                <a href="<?= ROOT_PATH ?>/services/profile_door_installation.php">
+                                                <a href="<?= ROOT_PATH ?>services/glazing_work.php"> Glazing Work </a>
+                                                <a href="<?= ROOT_PATH ?>services/profile_door_installation.php">
                                                     Profile Door Installation </a>
                                             </div>
                                             <div class="column" style="background-color:white;color:black">
                                                 <h3> UPVC </h3>
-                                                <a href="<?= ROOT_PATH ?>/services/upvc_window_installation.php">Window
+                                                <a href="<?= ROOT_PATH ?>services/upvc_window_installation.php">Window
                                                     Installation</a>
-                                                <a href="<?= ROOT_PATH ?>/services/upvc_partitions_installation.php">Partition
+                                                <a href="<?= ROOT_PATH ?>services/upvc_partitions_installation.php">Partition
                                                     Installation</a>
-                                                <a href="<?= ROOT_PATH ?>/services/upvc_door_installations.php">Door
+                                                <a href="<?= ROOT_PATH ?>services/upvc_door_installations.php">Door
                                                     Installation</a>
                                             </div>
                                             <div class="column" style="background-color:white;color:black">
                                                 <h3> Glass </h3>
-                                                <a href="<?= ROOT_PATH ?>/services/glass_polishing.php">Glass
+                                                <a href="<?= ROOT_PATH ?>services/glass_polishing.php">Glass
                                                     Polishing</a>
-                                                <a href="<?= ROOT_PATH ?>/services/balustrading.php">Balustrading</a>
-                                                <a href="<?= ROOT_PATH ?>/services/spider_fitting.php">Spider
+                                                <a href="<?= ROOT_PATH ?>services/balustrading.php">Balustrading</a>
+                                                <a href="<?= ROOT_PATH ?>services/spider_fitting.php">Spider
                                                     Fitting</a>
-                                                <a href="<?= ROOT_PATH ?>/services/glass_partitions.php">Glass
+                                                <a href="<?= ROOT_PATH ?>services/glass_partitions.php">Glass
                                                     Partitions</a>
-                                                <a href="<?= ROOT_PATH ?>/services/etching.php">Etching</a>
+                                                <a href="<?= ROOT_PATH ?>services/etching.php">Etching</a>
                                                 
 
 
@@ -278,13 +279,13 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                             </div>
                                             <div class="column" style="background-color:white;color:black">
                                                  <h3>Glass </h3>
-                                                 <a href="<?= ROOT_PATH ?>/services/glass_shelving.php">Glass
+                                                 <a href="<?= ROOT_PATH ?>services/glass_shelving.php">Glass
                                                     Shelving</a>
-                                                <a href="<?= ROOT_PATH ?>/services/glass_replacing.php">Glass
+                                                <a href="<?= ROOT_PATH ?>services/glass_replacing.php">Glass
                                                     Replacing</a>
-                                                <a href="<?= ROOT_PATH ?>/services/glass_patch_fitting.php">Glass Patch
+                                                <a href="<?= ROOT_PATH ?>services/glass_patch_fitting.php">Glass Patch
                                                     Fitting</a>
-                                                <a href="<?= ROOT_PATH ?>/services/all_types_of_mirrors.php">All Types
+                                                <a href="<?= ROOT_PATH ?>services/all_types_of_mirrors.php">All Types
                                                     of Mirrors</a>
                                              </div>
                                         </div>
@@ -320,7 +321,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
 
                         <!-- Contact Nav -->
                         <div class="contact-slide-hide bg-cover"
-                            style="background-image:url(<?= ROOT_PATH ?>images/background/bg11.jpg);">
+                            style="background-image:url(<?= ROOT_PATH ?>img/as-enterprises-contact.webp);">
                             <div class="contact-nav">
                                 <a href="javascript:void(0)" class="contact_close">&times;</a>
                                 <div class="contact-nav-form p-a30">

@@ -1,9 +1,15 @@
 
 <?php ;
+$meta = [
+    'title' => "Portfile - Expert Glass & uPVC Installation Services | India",
+    'description' => "AS Enterprises offers expert glass and uPVC installation services in India. Rely on our skilled team for quality, endless installations for homes and commercial.",
+    'keywords' => "upvc windows, upvc partition, upvc doors, Glass Door, Upvc Sliding Window, Aluminium window designs, Aluminium door,  Aluminium partition, Glazing work, Profile door installation,  Glass polishing,  Balustrading, Spider fitting, Glass partitions, Etching, Glass shelving, Glass replacing, Glass patch fitting, All types of mirrors, ",
 
+
+]; 
 include('includes/header.php')
 
- ?>
+    ?>
       
       <!-- CONTENT START -->
       <div class="page-content">
@@ -44,7 +50,7 @@ include('includes/header.php')
     <div class="section-head center wt-small-separator-outer">
         <div class="wt-small-separator site-text-secondry">
             <div  class="sep-leaf-left"></div>
-            <div>Projects</div>
+            <div>Portfolio</div>
         </div>
         <h2 class="wt-title">Brilliant Ideas With Excellent Work </h2>
     </div>
@@ -58,16 +64,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             Energy 
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Regulatory Compliance System</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/1.jpg" alt="">
+                        <img src="img/Portfolio.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/1.jpg" title="Energy" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio.webp" title="Energy" 
                         data-lcl-txt="Regulatory Compliance System" data-lcl-author="someone" data-lcl-thumb="images/project/1.jpg">
                         <i></i>    
                         </a> 
@@ -81,16 +87,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             industry
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Florida Chemical Factories</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/2.jpg" alt="">
+                        <img src="img/Portfolio-1.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/2.jpg" title="industry" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-1.webp" title="industry" 
                         data-lcl-txt="Florida Chemical Factories" data-lcl-author="someone" data-lcl-thumb="images/project/2.jpg">
                         <i></i>    
                         </a> 
@@ -104,16 +110,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             Construction
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Flyover Construction</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/3.jpg" alt="">
+                        <img src="img/Portfolio-3.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/3.jpg" title="Construction" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-3.webp" title="Construction" 
                         data-lcl-txt="Flyover Construction" data-lcl-author="someone" data-lcl-thumb="images/project/3.jpg">
                         <i></i>    
                         </a> 
@@ -127,16 +133,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             Oil & Gas
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Documents Electronics Data</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/4.jpg" alt="">
+                        <img src="img/Portfolio-4.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/4.jpg" title=" Oil & Gas" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-4.webp" title=" Oil & Gas" 
                         data-lcl-txt="Documents Electronics Data" data-lcl-author="someone" data-lcl-thumb="images/project/4.jpg">
                         <i></i>    
                         </a> 
@@ -150,16 +156,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             Automobile
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Automotive Manufactureing</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/5.jpg" alt="">
+                        <img src="img/Portfolio-5.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/5.jpg" title="Automobile" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-5.webp" title="Automobile" 
                         data-lcl-txt="Automotive Manufactureing" data-lcl-author="someone" data-lcl-thumb="images/project/5.jpg">
                         <i></i>    
                         </a> 
@@ -173,16 +179,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             Industrial
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">California Power Point</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/6.jpg" alt="">
+                        <img src="img/Portfolio-6.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/6.jpg" title="Industrial" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-6.webp" title="Industrial" 
                         data-lcl-txt="California Power Point" data-lcl-author="someone" data-lcl-thumb="images/project/6.jpg">
                         <i></i>    
                         </a> 
@@ -196,16 +202,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             Energy 
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Regulatory Compliance System</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/7.jpg" alt="">
+                        <img src="img/Portfolio-10.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/7.jpg" title="Energy" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-10.webp" title="Energy" 
                         data-lcl-txt="Regulatory Compliance System" data-lcl-author="someone" data-lcl-thumb="images/project/7.jpg">
                         <i></i>    
                         </a> 
@@ -219,16 +225,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             industry
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Florida Chemical Factories</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/2.jpg" alt="">
+                        <img src="img/Portfolio-8.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/2.jpg" title="Industry" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-8.webp" title="Industry" 
                         data-lcl-txt="Florida Chemical Factories" data-lcl-author="someone" data-lcl-thumb="images/project/2.jpg">
                         <i></i>    
                         </a> 
@@ -242,16 +248,16 @@ include('includes/header.php')
             
                 <div class="project-box-style1">
                     <div class="project-content">
-                        <div class="project-title">
+                        <!-- <div class="project-title">
                             Construction
-                        </div>
-                        <h4 class="project-title-large"><a href="project-single.html">Flyover Construction</a></h4>
+                        </div> -->
+                        <h4 class="project-title-large"><a href="#"></a></h4>
                     </div>
                     <div class="project-media">
-                        <img src="images/project/8.jpg" alt="">
+                        <img src="img/Portfolio-9.webp" alt="portfolio">
                     </div>
                     <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="images/project/8.jpg" title="Construction" 
+                        <a class="elem pic-long project-view-btn" href="img/Portfolio-9.webp" title="Construction" 
                         data-lcl-txt="Flyover Construction" data-lcl-author="someone" data-lcl-thumb="images/project/8.jpg">
                         <i></i>    
                         </a> 

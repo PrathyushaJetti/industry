@@ -86,7 +86,7 @@ include('.././includes/header.php');
 
                                     <div class="services-etc m-b30">
                                         <div class="wt-media m-b30">
-                                            <img src="../image" alt="upvc"> 
+                                            <img src="../img/upvc-Door Installation-medium.webp" alt="upvc"> 
                                         </div>                                        
                                         <div class="text-left">
                                             <h4 class="wt-title m-b20"> UPVC Doors and Installation </h4>

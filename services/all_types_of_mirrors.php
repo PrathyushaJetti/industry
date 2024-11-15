@@ -86,7 +86,7 @@ include('.././includes/header.php');
 
                                     <div class="services-etc m-b30">
                                         <div class="wt-media m-b30">
-                                            <img src="../images/services/1.jpg" alt="mirrors"> 
+                                            <img src="../img/all-types-of-mirrors-medium.webp" alt="mirrors"> 
                                         </div>                                        
                                         <div class="text-left">
                                             <h4 class="wt-title m-b20"> All Types of Mirrors on Wall </h4>

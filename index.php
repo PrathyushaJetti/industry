@@ -1,11 +1,11 @@
 <?php ;
-// $meta = [
-//     'title' => "Book Online Bikes, Cabs, and Auto Rides Nearby at bharathgo.com",
-//     'description' => "Need a ride? Book bikes, cabs, or autos on BharathGo! Easy to book, affordable prices, and fast rides for your daily travel. Quick, simple, and budget-friendly.",
-//     'keywords' => "online booking apps,online cars booking,online bike booking,online auto booking,Cabs near me ,Bike ride app,Bike ride booking ,24/7  cabs service near me,How to book a bike taxi ,late-night ride services,Affordable bike and car rides near me,how to book auto online,online taxi near me,Car Rentals India,book cabs online,book taxi online,Cab services,Cab rental,Long Drives cabs,Bikes in online,bike rental near me,online bike on rent,bike rental nearby",
+$meta = [
+    'title' => "Best Aluminium, Glass & uPVC Works In India | AS Enterprises",
+    'description' => "Aluminium & uPVC windows, doors, partitions, hardware, and glasswork for commercial & residential needs offering durability & quality work at affordable prices.",
+    'keywords' => "Is upvc Windows good, aluminium and glass work,upvc and aluminium doors and windows, aluminium window glass types,upvc and aluminium windows near me,pvc aluminium windows,4 window, aluminium and glass work near me, aluminum glasswork, aluminium door & windows,uPVC door & windows, All types of glass works, Aluminium Works India, Glassworks India, uPVC works in India, Aluminium door price, Best aluminium glass & upvc works across india price,",
 
 
-// ]; 
+]; 
 include('includes/header.php')
 
     ?>
@@ -82,7 +82,7 @@ include('includes/header.php')
                                     font-weight: 600;
                                     color:#fff;
                                     border-width:0px; font-family: 'Poppins', sans-serif; text-transform:uppercase">
-                            <div class="site-text-white">Welcome AS Enterprises </div>
+                            <div class="site-text-white">Welcome To AS Enterprises </div>
                         </div>
 
                         <!-- LAYER NR. 3 [ for title ] -->
@@ -197,7 +197,7 @@ include('includes/header.php')
                                     font-weight: 600;
                                     color:#fff;
                                     border-width:0px; font-family: 'Poppins', sans-serif; text-transform:uppercase">
-                            <div class="site-text-white"> Welcome AS Enterprises </div>
+                            <div class="site-text-white"> Welcome To AS Enterprises </div>
                         </div>
 
                         <!-- LAYER NR. 3 [ for title ] -->
@@ -312,7 +312,7 @@ include('includes/header.php')
                                     font-weight: 600;
                                     color:#fff;
                                     border-width:0px; font-family: 'Poppins', sans-serif; text-transform:uppercase">
-                            <div class="site-text-white"> Welcome AS Enterprises </div>
+                            <div class="site-text-white"> Welcome To AS Enterprises </div>
                         </div>
 
                         <!-- LAYER NR. 3 [ for title ] -->

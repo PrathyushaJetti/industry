@@ -1,5 +1,11 @@
 <?php ;
+$meta = [
+    'title' => "Aluminium, Glass & uPVC Installation Services |Affordable Cost",
+    'description' => "Affordable Aluminium, Glass, & uPVC installation services for windows, doors, partitions, glazing, polishing, etching, and mirrors.Quality work at great prices.",
+    'keywords' => "Is upvc Windows good, aluminium and glass work,upvc and aluminium doors and windows, aluminium window glass types,upvc and aluminium windows near me,pvc aluminium windows,4 window, aluminium and glass work near me, aluminum glasswork, aluminium door & windows,uPVC door & windows, All types of glass works, Aluminium Works India, Glassworks India, uPVC works in India, Aluminium door price, Best aluminium glass & upvc works across india price,upvc windows, upvc partition, upvc doors, Glass Door, upvc Sliding Window, Aluminium windows, Aluminium door, Aluminium partition, Glazing work, Profile door installation, Glass polishing, Balustrading, Spider fitting, Glass partitions, Etching, Glass shelving, Glass replacing, Glass patch fitting, All types of mirrors,",
 
+
+]; 
 include('includes/header.php')
 
     ?>
@@ -194,8 +200,8 @@ include('includes/header.php')
     </div>
     <!-- HELP SECTION End -->
 
-    <!-- SOME FACTS START -->
-    <div class="section-full p-t120 p-b120 bg-cover" style="background-image:url(images/background/bg10.jpg);">
+   <!-- SOME FACTS START -->
+   <div class="section-full p-t120 p-b120 bg-cover" style="background-image:url(img/about-us-banner.webp);">
         <div class="container">
             <div class="section-content">
                 <div class="row justify-content-center d-flex align-items-center">
@@ -217,7 +223,7 @@ include('includes/header.php')
                         </div>
                         <!-- TITLE END-->
                         <div class="p-t30">
-                            <a href="about-1.html" class="site-button sb-bdr-dark">Learn More</a>
+                            <a href="about.php" class="site-button sb-bdr-dark">Learn More</a>
                         </div>
                     </div>
 
@@ -231,7 +237,7 @@ include('includes/header.php')
                                         </span>
                                         <div class="icon-content">
                                             <div class="m-b5 site-text-primary"><span class="counter">808</span></div>
-                                            <div class="icon-content-info">Skilled Contractors</div>
+                                            <div class="icon-content-info">Contractors</div>
                                         </div>
                                     </div>
                                 </div>
@@ -243,7 +249,7 @@ include('includes/header.php')
                                         </span>
                                         <div class="icon-content">
                                             <div class="m-b5 site-text-primary"><span class="counter">950</span></div>
-                                            <div class="icon-content-info">Projects Completed</div>
+                                            <div class="icon-content-info">Projects Done!</div>
                                         </div>
                                     </div>
                                 </div>
@@ -278,7 +284,7 @@ include('includes/header.php')
                             <div class="video-section-first overlay-wraper bg-cover"
                                 style="background-image: url(images/background/bg-2.jpg);">
                                 <div class="overlay-main site-bg-primary opacity-07"></div>
-                                <a href="https://www.youtube.com/watch?v=c1XNqw2gSbU" class="mfp-video play-now-video">
+                                <a href="img/as-video.mp4" class="mfp-video play-now-video">
                                     <i class="icon fa fa-play"></i>
                                     <span class="ripple"></span>
                                 </a>

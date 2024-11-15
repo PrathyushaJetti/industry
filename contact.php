@@ -1,8 +1,14 @@
 <?php ;
+$meta = [
+    'title' => "Contact Us - AS Enterprises Aluminium, Glass & UPVC Services",
+    'description' => "Get affordable aluminum, glass & UPVC solutions with AS Enterprises. Quality windows, doors & partitions Customized for you Contact us today for all your needs.",
+    'keywords' => "AS Enterprises, Door, Window, Partitions, Glassworks near me, Aluminium works,upvc works, Phone number,  Aluminium glass & upvc services, Aluminium glass & upvc services reviews, Aluminium glass & upvc services near me, Aluminium Windows price, Aluminium windows suppliers, Aluminium glass & upvc services cost, Aluminium windows,  Aluminium windows near me, Address,",
 
+
+]; 
 include('includes/header.php')
 
- ?>
+    ?>
 
       
         <!-- CONTENT START -->

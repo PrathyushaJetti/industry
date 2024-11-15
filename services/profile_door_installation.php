@@ -86,7 +86,7 @@ include('.././includes/header.php');
 
                                     <div class="services-etc m-b30">
                                         <div class="wt-media m-b30">
-                                            <img src="../images/services/1.jpg" alt="aluminum"> 
+                                            <img src="../img/profile-door-installation-medium.webp" alt="aluminum"> 
                                         </div>                                        
                                         <div class="text-left">
                                             <h4 class="wt-title m-b20">Aluminum  Profile door Installation </h4>

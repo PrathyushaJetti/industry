@@ -16,7 +16,7 @@ include('.././includes/header.php');
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);" alt="aluminum" >
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(../img/etching-banner.webp);" alt="aluminum" >
             	<div class="overlay-main site-bg-black opacity-06"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -86,7 +86,7 @@ include('.././includes/header.php');
 
                                     <div class="services-etc m-b30">
                                         <div class="wt-media m-b30">
-                                            <img src="../images/services/1.jpg" alt="aluminum"> 
+                                            <img src="../img/Etching-medium.webp" alt="aluminum"> 
                                         </div>                                        
                                         <div class="text-left">
                                             <h4 class="wt-title m-b20"> Glass Etching  </h4>

@@ -1,9 +1,16 @@
 
 <?php ;
+$meta = [
+    'title' => "About Us - Aluminum, Glass & uPVC | Partitions, Windows, Doors",
+    'description' => "Aluminium, Glass, uPVC Works  AS Enterprises Top Quality Windows, Doors, and More  Affordable Prices  Expert Installation  India",
+    'keywords' => "Is upvc Windows good, aluminium and glass work, upvc and aluminium doors and windows, aluminium window glass types, upvc and aluminium windows near me,pvc aluminium windows, 4 windows, aluminium and glass work near me, aluminum glasswork, aluminium door & windows, uPVC door & windows, All types of glass works, Aluminium Works India, Glassworks India, uPVC works in India, Aluminium door price, Best aluminium glass & upvc works across india price,",
 
+
+]; 
 include('includes/header.php')
 
- ?>
+    ?>
+
       
         <!-- CONTENT START -->
         <div class="page-content">
@@ -34,7 +41,8 @@ include('includes/header.php')
             <!-- INNER PAGE BANNER END -->         
 
            <!-- ABOUT ONE SECTION START -->
-    <div class="section-full p-t120 p-b90 bg-no-repeat bg-center bg-gray-light">
+   <!-- ABOUT ONE SECTION START -->
+   <div class="section-full p-t120 p-b90 bg-no-repeat bg-center bg-gray-light">
         <div class="about-section-one">
             <div class="container">
                 <div class="section-content">
@@ -42,7 +50,7 @@ include('includes/header.php')
 
                         <div class="col-lg-6 col-md-12 m-b30">
                             <div class="about-max-one">
-                                <div class="about-max-one-media"><img src="images/intro-pic.jpg" alt=""></div>
+                                <div class="about-max-one-media"><img src="img/ABOUT US.webp" alt=""></div>
                             </div>
                         </div>
 
@@ -93,7 +101,7 @@ include('includes/header.php')
                                             </div>
                                         </div>
                                     </div>
-                                   
+                                    <a href="about.php" class="site-button sb-bdr-dark">Learn More</a>
                                 </div>
                             </div>
 
@@ -104,6 +112,7 @@ include('includes/header.php')
             </div>
         </div>
     </div>
+    <!-- ABOUT ONE SECTION END -->
     <!-- ABOUT ONE SECTION END -->
             <!-- SOME FACTS START -->
             <div class="section-full p-b90 site-bg-primary">
@@ -387,55 +396,7 @@ include('includes/header.php')
 </div>
 <!-- TESTIMONIAL SECTION END -->    
          
-            <!-- BUILD FUTURE START -->
-            <div class="section-full bg-white">
-
-                <div class="container-fluid future-section-outer ">
-                    <div class="row">
-                        <div class="col-xl-6 col-lg-6 future-section-left bg-cover" style="background-image:url(images/background/bg12.jpg);">
-                            
-                        </div>
-                        <div class="col-xl-6 col-lg-6 future-section-right bg-white">
-                            <div class="future-sec-right-content">
-                                <div class="future-right-inner">
-                                    <div class="section-head left wt-small-separator-outer">
-                                        <div class="wt-small-separator site-text-primary">
-                                            <div class="sep-leaf-left"></div>
-                                            <div>Build Future</div>                                
-                                        </div>
-                                        <h2 class="wt-title">We provide the highest
-                                            quality of work that meets
-                                            your expectations</h2>
-                                    </div>
-
-                                    <div class="our-future">
-                                        <span class="progressText "><B>Industry</B></span>
-                                        <div class="progress">
-                                        <div class="progress-bar site-bg-primary progress-bar-striped progress-bar-animated" role="progressbar" style="width: 92%;" aria-valuenow="92" aria-valuemin="0" aria-valuemax="100"></div><span> 80%</span>
-                                        </div>                                            
-                                        
-                                        
-                                        <span class="progressText "><B>Construction</B></span>
-                                        <div class="progress">
-                                        <div class="progress-bar site-bg-primary progress-bar-striped progress-bar-animated" role="progressbar" style="width: 84%;" aria-valuenow="84" aria-valuemin="0" aria-valuemax="100"></div><span> 90%</span>
-                                        </div>
-
-                                        <span class="progressText "><B>Factory</B></span>
-                                        <div class="progress">
-                                        <div class="progress-bar site-bg-primary progress-bar-striped progress-bar-animated" role="progressbar" style="width: 72%;" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div><span>95%</span>
-                                        </div>
-
-                                    </div>	
-
-
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            
-            </div>   
-            <!-- BUILD FUTURE END -->                     
+                              
 
      
         </div>
