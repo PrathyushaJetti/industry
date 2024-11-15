@@ -921,7 +921,7 @@ var animateSlideIntern = function(nexttrans, comingtransition, container, nextli
 			if (specials>12) specials = 0;
 								
 				var ssamount=0,
-					bgcol = specials == 2 ? "#000000" : specials == 3 ? "#ffffff" : "transparent";					
+					bgcol = specials == 2 ? "#2B7FB2000" : specials == 3 ? "#ffffff" : "transparent";					
 																
 				switch (specials) {					
 					case 0: //FADE 						

@@ -108,7 +108,7 @@ website:   	http://www.themepunch.com
 
 .tp-caption.very_big_white,.very_big_white
 {
-	background-color:#000;
+	background-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
 	color:#fff;
@@ -128,7 +128,7 @@ website:   	http://www.themepunch.com
 	background-color:#fff;
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#2B7FB2;
 	font-family:Arial;
 	font-size:60px;
 	font-weight:700;
@@ -144,7 +144,7 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#2B7FB2;
 	font-family:"Open Sans", sans-serif;
 	font-size:24px;
 	font-weight:800;
@@ -174,7 +174,7 @@ website:   	http://www.themepunch.com
 {
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#2B7FB2;
 	font-family:"Open Sans", sans-serif;
 	font-size:24px;
 	font-weight:300;
@@ -240,7 +240,7 @@ website:   	http://www.themepunch.com
 
 .tp-caption.black,.black
 {
-	color:#000;
+	color:#2B7FB2;
 	text-shadow:none;
 }
 
@@ -277,7 +277,7 @@ website:   	http://www.themepunch.com
 {
 	
 	
-	background-color:#000;
+	background-color:#2B7FB2;
 	border-radius:0;
 	color:#fff;
 	font-family:"Open Sans";
@@ -311,7 +311,7 @@ website:   	http://www.themepunch.com
 	
 	background-color:#fff;
 	border-radius:0;
-	color:#000;
+	color:#2B7FB2;
 	font-family:"Open Sans";
 	font-size:50px;
 	font-weight:300;
@@ -617,7 +617,7 @@ website:   	http://www.themepunch.com
 	border-color:#ffd658;
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#2B7FB2;
 	font-family:"Open Sans";
 	font-size:30px;
 	font-weight:300;
@@ -632,7 +632,7 @@ website:   	http://www.themepunch.com
 	border-color:#ffd658;
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#2B7FB2;
 	font-family:"Open Sans";
 	font-size:58px;
 	font-weight:800;
@@ -679,7 +679,7 @@ website:   	http://www.themepunch.com
 
 .tp-caption.large_bg_black,.large_bg_black
 {
-	background-color:#000;
+	background-color:#2B7FB2;
 	border-color:#ffd658;
 	border-style:none;
 	border-width:0;
@@ -695,10 +695,10 @@ website:   	http://www.themepunch.com
 .tp-caption.mediumwhitebg,.mediumwhitebg
 {
 	background-color:#fff;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
-	color:#000;
+	color:#2B7FB2;
 	font-family:"Open Sans";
 	font-size:30px;
 	font-weight:300;
@@ -711,7 +711,7 @@ website:   	http://www.themepunch.com
 .tp-caption.maincaption,.maincaption
 {
 	background-color:transparent;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
 	color:#212a40;
@@ -726,7 +726,7 @@ website:   	http://www.themepunch.com
 .tp-caption.miami_title_60px,.miami_title_60px
 {
 	background-color:transparent;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
 	color:#fff;
@@ -742,7 +742,7 @@ website:   	http://www.themepunch.com
 .tp-caption.miami_subtitle,.miami_subtitle
 {
 	background-color:transparent;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
 	color:rgba(255,255,255,0.65);
@@ -777,7 +777,7 @@ website:   	http://www.themepunch.com
 .tp-caption.miami_content_light,.miami_content_light
 {
 	background-color:transparent;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
 	color:#fff;
@@ -793,7 +793,7 @@ website:   	http://www.themepunch.com
 .tp-caption.miami_title_60px_dark,.miami_title_60px_dark
 {
 	background-color:transparent;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
 	color:#333;
@@ -809,7 +809,7 @@ website:   	http://www.themepunch.com
 .tp-caption.miami_content_dark,.miami_content_dark
 {
 	background-color:transparent;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-style:none;
 	border-width:0;
 	color:#666;
@@ -858,7 +858,7 @@ website:   	http://www.themepunch.com
 .tp-caption.MarkerDisplay,.MarkerDisplay
 {
 	background-color:transparent;
-	border-color:#000;
+	border-color:#2B7FB2;
 	border-radius:0 0 0 0;
 	border-style:none;
 	border-width:0;
@@ -2516,7 +2516,7 @@ website:   	http://www.themepunch.com
 .revtp-form input[type="email"]{ 	
 	font-family: "Arial", sans-serif;
     font-size: 15px;
-    color: #000;
+    color: #2B7FB2;
     background-color: #fff;
     line-height: 46px;
     padding: 0 20px;
@@ -3332,8 +3332,8 @@ website:   	http://www.themepunch.com
     }
     .tp-caption.Concept-Content-Dark a,
     .tp-caption.Concept-Content-Dark a:visited {
-        color: #000 !important;
-        border-bottom: 1px solid #000 !important;
+        color: #2B7FB2 !important;
+        border-bottom: 1px solid #2B7FB2 !important;
         font-weight: 700 !important;
     }
     .tp-caption.Concept-Content-Dark a:hover {
@@ -4643,7 +4643,7 @@ tp-caption.Team-Thumb,
 #mc_embed_signup input#mce-EMAIL {
     font-family: "Lato", sans-serif;
     font-size: 15px;
-    color: #000;
+    color: #2B7FB2;
     background-color: #fff;
     line-height: 46px;
     padding: 0 20px;
@@ -5648,7 +5648,7 @@ tp-caption.Team-Thumb,
         background: linear-gradient(to bottom, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
         /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
         
-        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#d9000000', endColorstr='#00000000', GradientType=0);
+        filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#d9000000', endColorstr='#2B7FB200000', GradientType=0);
         /* IE6-9 */
     }
     #mc_embed_signup input[type="email"] {

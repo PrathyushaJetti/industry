@@ -11,7 +11,7 @@ website:    http://www.themepunch.com
 /* ARROWS */
 .hades.tparrows {
 	cursor:pointer;
-	background:#000;
+	background:#2B7FB2;
 	background:rgba(0,0,0,0.15);
 	width:100px;
 	height:100px;
@@ -164,7 +164,7 @@ website:    http://www.themepunch.com
   border-radius:50%;
   padding:3px;
   display:inline-block;
-background:#000;
+background:#2B7FB2;
   background-color:rgba(0,0,0,0.25);
   width:100%;
   height:100%;

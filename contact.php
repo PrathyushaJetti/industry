@@ -51,7 +51,7 @@ include('includes/header.php')
                             
                             <div class="col-lg-7 col-md-12">
                                 <div class="contact-form-outer site-bg-gray">
-                                    <form  class="cons-contact-form" method="post" action="form-handler2.php">
+                                    <form  class="cons-contact-form" method="post" action=" ">
 
                                         
                                         <!-- TITLE START-->
@@ -156,3 +156,41 @@ include('includes/footer.php')
 
  ?>
 </html>
+
+<?php
+if ($_SERVER["REQUEST_METHOD"] == "POST") {
+    // Collect and sanitize form data
+    $username = htmlspecialchars(strip_tags($_POST['username']));
+    $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+    $phone = htmlspecialchars(strip_tags($_POST['phone']));
+    $subject = htmlspecialchars(strip_tags($_POST['subject']));
+    $message = htmlspecialchars(strip_tags($_POST['message']));
+
+    // Validate email
+    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+        echo "Invalid email format";
+        exit;
+    }
+
+    // Prepare the email
+    $to = "asenterprises1569@gmail.com";
+    $email_subject = "Contact Form Submission: " . $subject;
+    $email_body = "You have received a new message from the contact form.\n\n" .
+                  "Name: $username\n" .
+                  "Email: $email\n" .
+                  "Phone: $phone\n" .
+                  "Subject: $subject\n\n" .
+                  "Message:\n$message";
+
+    $headers = "From: $email\r\n";
+    $headers .= "Reply-To: $email\r\n";
+    
+    // Send the email
+    if (mail($to, $email_subject, $email_body, $headers)) {
+        echo "Thank you for contacting us. We will get back to you soon!";
+    } else {
+        echo "Oops! Something went wrong. Please try again later.";
+    }
+}
+?>
+

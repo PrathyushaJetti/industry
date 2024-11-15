@@ -63,7 +63,7 @@
                         <div class="newsletter-bx">
                             <form role="search" method="post">
                                 <div class="input-group">
-                                <input name="news-letter" class="form-control" placeholder="Enter Email Address" type="text">
+                                <input name="news-letter" class="form-control" placeholder="Enter Email Address" type="text" required>
                                 <span class="input-group-btn">
                                     <button type="submit" class="site-button"><i class="fa fa-paper-plane"></i></button>
                                 </span>
@@ -191,3 +191,31 @@
 
 
 </body>
+
+
+<?php
+// Check if the form was submitted
+if ($_SERVER["REQUEST_METHOD"] == "POST" && !empty($_POST['news-letter'])) {
+    // Sanitize and validate the email
+    $subscriber_email = filter_var($_POST['news-letter'], FILTER_SANITIZE_EMAIL);
+
+    if (!filter_var($subscriber_email, FILTER_VALIDATE_EMAIL)) {
+        echo "Invalid email format";
+    } else {
+        // Prepare the email content
+        $to = "asenterprises1569@gmail.com";
+        $subject = "New Newsletter Subscription";
+        $message = "A new user has subscribed to the newsletter.\n\n" .
+                   "Subscriber Email: $subscriber_email";
+        $headers = "From: noreply@yourdomain.com\r\n";
+        $headers .= "Reply-To: $subscriber_email\r\n";
+
+        // Send the email
+        if (mail($to, $subject, $message, $headers)) {
+            echo "Thank you for subscribing!";
+        } else {
+            echo "There was an issue with your subscription. Please try again.";
+        }
+    }
+}
+?>
