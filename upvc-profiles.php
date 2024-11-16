@@ -9,7 +9,7 @@ include('includes/header.php')
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(img/upvc-banner.webp);">
             	<div class="overlay-main site-bg-black opacity-06"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -22,8 +22,8 @@ include('includes/header.php')
                         
                             <div>
                                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li>Our Services</li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li>UPVC Work Services</li>
                                 </ul>
                             </div>
                         
@@ -54,7 +54,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-physics"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-physics"></i> -->
+                                                <img src="img/upvc-window-Installatio-icon.webp" alt="upvc">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -79,7 +82,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-graphic-tool"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-graphic-tool"></i> -->
+                                                <img src="img/upvc-partition-Installation-icon.webp" alt="upvc">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -104,7 +110,11 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-gas-station"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-gas-station"></i> -->
+                                                <img src="img/upvc-door-installation-icon.webp" alt="upvc">
+                                                
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -281,7 +291,7 @@ include('includes/header.php')
                                         </div>
 
                                         
-                                        <div class="video-section-first overlay-wraper bg-cover" style="background-image: url(images/background/bg-2.jpg);">
+                                        <div class="video-section-first overlay-wraper bg-cover" style="background-image: url(img/glass partition-2.webpg);">
                                             <div class="overlay-main site-bg-primary opacity-07"></div>
                                             <a href="https://www.youtube.com/watch?v=c1XNqw2gSbU" class="mfp-video play-now-video">
                                                 <i class="icon fa fa-play"></i>

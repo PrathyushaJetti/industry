@@ -214,7 +214,7 @@ include('includes/header.php')
                             data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                             style="z-index: 2; 
                                     white-space: normal; 
-                                    font-weight: 500;
+                                    font-weight: 400;
                                     color:#fff;
                                     border-width:0px; font-family: 'Poppins', sans-serif;">
                             <div class="site-text-white"> Sustainable Quality in Every Frame </div>
@@ -532,7 +532,7 @@ include('includes/header.php')
 
 
                             <div class="video-section-first overlay-wraper bg-cover"
-                                style="background-image: url(images/background/bg-2.jpg);">
+                                style="background-image: url(img/Aluminum-partition-instal-1.webp); " alt="bg-video">
                                 <div class="overlay-main site-bg-primary opacity-07"></div>
                                 <a href="img/as-video.mp4" class="mfp-video play-now-video">
                                     <i class="icon fa fa-play"></i>
@@ -554,145 +554,112 @@ include('includes/header.php')
 
    
     <!-- SERVICES SECTION START -->
-    <div class="section-full half-section-outer-1  bg-white">
-        <div class="half-section-top p-t120 site-bg-primary"
-            style="background-image:url(images/background/bg-dott3.png);">
-            <div class="container">
-                <div class="wt-separator-two-part when-bg-dark">
-                    <div class="row wt-separator-two-part-row">
-                        <div class="col-lg-6 col-md-12 wt-separator-two-part-left">
-                            <!-- TITLE START-->
-                            <div class="section-head left wt-small-separator-outer">
-                                <div class="wt-small-separator">
-                                    <div class="sep-leaf-left"></div>
-                                    <div>Services</div>
+    <div class="section-full p-t120  p-b90" style="background-image:url(imag/services-banner.webp);">
+
+        <div class="container">
+            <!-- TITLE START-->
+            <div class="section-head center wt-small-separator-outer">
+                <div class="wt-small-separator site-text-primary">
+                    <div class="sep-leaf-left"></div>
+                    <div>Our Services</div>
+                </div>
+                <h2 class="wt-title">We Provide Best Services</h2>
+            </div>
+            <!-- TITLE END-->
+            <div class="s-section">
+                <div class="row">
+                    <!-- COLUMNS 1 -->
+                    <div class="col-lg-4 col-md-6 m-b30">
+                        <div class="service-icon-box-two">
+
+                            <div class="wt-icon-box-wraper">
+                                <div class="icon-xl inline-icon">
+                                    <span class="icon-cell site-text-primary">
+                                        <!-- <i class="flaticon-physics"></i> -->
+                                        <img src="img/aluminum-icon.webp" alt="aluminum">
+                                    </span>
                                 </div>
-                                <h2 class="wt-title">Best A Grade
-                                    Commercial &
-                                    Residential
-                                    Services</h2>
                             </div>
-                            <!-- TITLE END-->
+
+                            <div class="service-icon-box-title">
+                                <h4 class="wt-title"><a href="aluminum-profiles.php">Aluminum Work</a></h4>
+                            </div>
+
+                            <div class="service-icon-box-content">
+                                <p>You can dream, create, design, and build the most wonderful place in the world. But
+                                    it requires people.</p>
+                                <a href="aluminum-profiles.php" class="site-button-link site-text-primary">Read
+                                    More</a>
+                            </div>
+
                         </div>
-
-
-                        <div class="col-lg-6 col-md-12 wt-separator-two-part-right">
-                            <p class="p_discription">
-                                We provide top-quality aluminum and glass UPVC work for homes and businesses. Our team
-                                specializes in windows, doors, and partitions that are durable, stylish, and
-                                energy-efficient. Trust us for expert installation and reliable service.
-                            </p>
-                            <a href="services.php" class="site-button-secondry sb-bdr-light">Learn More</a>
-                        </div>
-
                     </div>
+
+                    <!-- COLUMNS 2 -->
+                    <div class="col-lg-4 col-md-6 m-b30">
+                        <div class="service-icon-box-two">
+
+                            <div class="wt-icon-box-wraper">
+                                <div class="icon-xl inline-icon">
+                                    <span class="icon-cell site-text-primary">
+                                        <!-- <i
+                                            class="flaticon-graphic-tool"></i> -->
+                                            <img src="img/upvc-icon.webp" alt="upvc">
+                                        </span>
+                                </div>
+                            </div>
+
+                            <div class="service-icon-box-title">
+                                <h4 class="wt-title"><a href="upvc-profiles.php">UPVC Work </a></h4>
+                            </div>
+
+                            <div class="service-icon-box-content">
+                                <p>You can dream, create, design, and build the most wonderful place in the world. But
+                                    it requires people.</p>
+                                <a href="upvc-profiles.php" class="site-button-link site-text-primary">Read More</a>
+                            </div>
+
+                        </div>
+                    </div>
+
+                    <!-- COLUMNS 3 -->
+                    <div class="col-lg-4 col-md-6 m-b30">
+                        <div class="service-icon-box-two">
+
+                            <div class="wt-icon-box-wraper">
+                                <div class="icon-xl inline-icon">
+                                    <span class="icon-cell site-text-primary">
+                                        <!-- <i
+                                            class="flaticon-gas-station"></i> -->
+                                            <img src="img/glass-icon.webp" alt="glass">
+                                        </span>
+                                </div>
+                            </div>
+
+                            <div class="service-icon-box-title">
+                                <h4 class="wt-title"><a href="glass-work.php"> Glass Work </a></h4>
+                            </div>
+
+                            <div class="service-icon-box-content">
+                                <p>You can dream, create, design, and build the most wonderful place in the world. But
+                                    it requires people.</p>
+                                <a href="glass-work.php" class="site-button-link site-text-primary">Read More</a>
+                            </div>
+
+                        </div>
+                    </div>
+
+
+
+
+
+
                 </div>
             </div>
+
         </div>
-        <div class="half-section-bottom">
-            <div class="container">
-                <div class="section-content">
-                    <div class="owl-carousel service-slider-one m-b30">
-                        <!-- COLUMNS 1 -->
-                        <div class="item ">
-
-                            <div class="service-icon-box-one bg-white">
-
-                                <div class="wt-icon-box-wraper">
-                                    <div class="icon-xl inline-icon">
-                                        <span class="icon-cell site-text-primary"><i
-                                                class="flaticon-physics"></i></span>
-                                    </div>
-                                </div>
-
-                                <div class="service-icon-box-title">
-                                    <h4 class="wt-title"><a href="service-detail.html"> Aluminum works </a></h4>
-                                </div>
-
-                                <div class="service-icon-box-content">
-                                    <p>Aluminum profiles are versatile components used for window, partition, door
-                                        installations, glazing works, and specialized profile doors, enhancing structure
-                                        and aesthetics.</p>
-                                    <a href="service-detail.html" class="site-button-link site-text-primary">Read
-                                        More</a>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- COLUMNS 2 -->
-                        <div class="item ">
-
-                            <div class="service-icon-box-one bg-white">
-
-                                <div class="wt-icon-box-wraper">
-                                    <div class="icon-xl inline-icon">
-                                        <span class="icon-cell site-text-primary"><i
-                                                class="flaticon-graphic-tool"></i></span>
-                                    </div>
-                                </div>
-
-                                <div class="service-icon-box-title">
-                                    <h4 class="wt-title"><a href="service-detail.html"> Glassworks </a></h4>
-                                </div>
-
-                                <div class="service-icon-box-content">
-                                    <p>Glass options include polishing, balustrading, spider fittings, partitions,
-                                        etching, shelving, replacement, patch fittings, and diverse mirrors for
-                                        versatile applications.</p>
-                                    <a href="service-detail.html" class="site-button-link site-text-primary">Read
-                                        More</a>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-                        <!-- COLUMNS 3 -->
-                        <div class="item ">
-
-                            <div class="service-icon-box-one bg-white">
-
-                                <div class="wt-icon-box-wraper">
-                                    <div class="icon-xl inline-icon">
-                                        <span class="icon-cell site-text-primary"><i
-                                                class="flaticon-gas-station"></i></span>
-                                    </div>
-                                </div>
-
-                                <div class="service-icon-box-title">
-                                    <h4 class="wt-title"><a href="service-detail.html">UPVC </a></h4>
-                                </div>
-
-                                <div class="service-icon-box-content">
-                                    <p>uPVC profiles are used in windows, doors, and partitions, offering durability,
-                                        insulation, and design flexibility for commercial and residential installations.
 
 
-
-                                    </p>
-                                    <a href="service-detail.html" class="site-button-link site-text-primary">Read
-                                        More</a>
-                                </div>
-
-                            </div>
-
-                        </div>
-
-
-                       
-                        
-                        
-
-                       
-
-                        
-
-                    </div>
-                </div>
-            </div>
-        </div>
 
     </div>
     <!-- SERVICES SECTION END -->
@@ -732,7 +699,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" alt="">
+                                            <img src="img/testimonial-anil.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -758,7 +725,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic2.jpg" alt="">
+                                            <img src="img/testimonial-neelima.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -784,7 +751,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic3.jpg" alt="">
+                                            <img src="img/testimonial-vijay.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -810,7 +777,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" alt="">
+                                            <img src="img/amit.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -836,7 +803,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic2.jpg" alt="">
+                                            <img src="img/testimonial-sneha.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -862,7 +829,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic3.jpg" alt="">
+                                            <img src="img/ankit.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">

@@ -1,4 +1,3 @@
-
 <?php ;
 $meta = [
     'title' => "About Us - Aluminum, Glass & uPVC | Partitions, Windows, Doors",
@@ -6,43 +5,43 @@ $meta = [
     'keywords' => "Is upvc Windows good, aluminium and glass work, upvc and aluminium doors and windows, aluminium window glass types, upvc and aluminium windows near me,pvc aluminium windows, 4 windows, aluminium and glass work near me, aluminum glasswork, aluminium door & windows, uPVC door & windows, All types of glass works, Aluminium Works India, Glassworks India, uPVC works in India, Aluminium door price, Best aluminium glass & upvc works across india price,",
 
 
-]; 
+];
 include('includes/header.php')
 
     ?>
 
-      
-        <!-- CONTENT START -->
-        <div class="page-content">
 
-            <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(img/about-banner.webp);">
-            	<div class="overlay-main site-bg-black opacity-06"></div>
-                <div class="container">
-                    <div class="wt-bnr-inr-entry">
-                    	<div class="banner-title-outer">
-                        	<div class="banner-title-name">
-                        		<h2 class="wt-title">About Us </h2>
-                            </div>
-                        </div>
-                        <!-- BREADCRUMB ROW -->                            
-                        
-                            <div>
-                                <ul class="wt-breadcrumb breadcrumb-style-2">
-                                    <li><a href="index.php">Home</a></li>
-                                    <li>About Us</li>
-                                </ul>
-                            </div>
-                        
-                        <!-- BREADCRUMB ROW END -->                        
+<!-- CONTENT START -->
+<div class="page-content">
+
+    <!-- INNER PAGE BANNER -->
+    <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(img/about-banner.webp);">
+        <div class="overlay-main site-bg-black opacity-06"></div>
+        <div class="container">
+            <div class="wt-bnr-inr-entry">
+                <div class="banner-title-outer">
+                    <div class="banner-title-name">
+                        <h2 class="wt-title">About Us </h2>
                     </div>
                 </div>
-            </div>
-            <!-- INNER PAGE BANNER END -->         
+                <!-- BREADCRUMB ROW -->
 
-           <!-- ABOUT ONE SECTION START -->
-   <!-- ABOUT ONE SECTION START -->
-   <div class="section-full p-t120 p-b90 bg-no-repeat bg-center bg-gray-light">
+                <div>
+                    <ul class="wt-breadcrumb breadcrumb-style-2">
+                        <li><a href="index.php">Home</a></li>
+                        <li>About Us</li>
+                    </ul>
+                </div>
+
+                <!-- BREADCRUMB ROW END -->
+            </div>
+        </div>
+    </div>
+    <!-- INNER PAGE BANNER END -->
+
+    <!-- ABOUT ONE SECTION START -->
+    <!-- ABOUT ONE SECTION START -->
+    <div class="section-full p-t120 p-b90 bg-no-repeat bg-center bg-gray-light">
         <div class="about-section-one">
             <div class="container">
                 <div class="section-content">
@@ -114,96 +113,97 @@ include('includes/header.php')
     </div>
     <!-- ABOUT ONE SECTION END -->
     <!-- ABOUT ONE SECTION END -->
-            <!-- SOME FACTS START -->
-            <div class="section-full p-b90 site-bg-primary">
-                <div class="container">
-                    <div class="section-content"> 
-                        <div class="c-section-two">
-                            <div class="counter-block-half">
-                                <div class="row justify-content-center d-flex no-gutters">
-                                    <div class="col-lg-3 col-md-6 col-sm-6">
-                                        <div class="wt-icon-box-wraper left">
-                                            <span class="icon-md p-t10">
-                                                <i class="flaticon-worker"></i>
-                                            </span>
-                                            <div class="icon-content">
-                                                <div class="m-b5"><span class="counter">808</span></div>
-                                                <div class="icon-content-info">Skilled Contractors</div>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="col-lg-3 col-md-6 col-sm-6">
-                                        <div class="wt-icon-box-wraper left">
-                                            <span class="icon-md p-t10">
-                                                <i class="flaticon-briefing"></i>
-                                            </span>
-                                            <div class="icon-content">
-                                                <div class="m-b5"><span class="counter">950</span></div>
-                                                <div class="icon-content-info">Projects Completed</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="col-lg-3 col-md-6 col-sm-6">
-                                        <div class="wt-icon-box-wraper left">
-                                            <span class="icon-md p-t10">
-                                                <i class="flaticon-factory"></i>
-                                            </span>
-                                            <div class="icon-content">
-                                                <div class="m-b5"><span class="counter">560</span></div>
-                                                <div class="icon-content-info">Industries Served</div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    
-                                    <div class="col-lg-3 col-md-6 col-sm-6">
-                                        <div class="wt-icon-box-wraper left ">
-                                            <span class="icon-md p-t10">
-                                                <i class="flaticon-reliability"></i>
-                                            </span>
-                                            <div class="icon-content">
-                                                <div class="m-b5"><span class="counter">996</span></div>
-                                                <div class="icon-content-info">Trusted By</div>
-                                            </div>
-                                        </div>
-                                    </div>                                            
-
-                                </div>
-                            </div>
-
-                            <div class="video-with-content m-b30">
-                                <div class="row">
-                                    <div class="col-lg-5 col-md-12">
-                                        <div class="video-left-content">
-                                            <h3 class="wt-title site-text-white">
-                                                We believe in building long lasting our business relationships.
-                                            </h3>
-                                            <p>+91-9535452209, +91-9986338333.</p> 
-                                            <p>info@gmail.com</p>
-                                            <i class="flaticon-customer-service"></i>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-7 col-md-12">
-                                        <div class="video-section-two overlay-wraper bg-cover" style="background-image: url(images/background/bg-2.jpg);">
-                                            <div class="overlay-main site-bg-black opacity-07"></div>
-                                            <a href="https://www.youtube.com/watch?v=c1XNqw2gSbU" class="mfp-video play-now-video">
-                                                <i class="icon fa fa-play"></i>
-                                                <span class="ripple"></span>
-                                            </a>
-                                        </div>
+    <!-- SOME FACTS START -->
+    <div class="section-full p-b90 site-bg-primary">
+        <div class="container">
+            <div class="section-content">
+                <div class="c-section-two">
+                    <div class="counter-block-half">
+                        <div class="row justify-content-center d-flex no-gutters">
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="wt-icon-box-wraper left">
+                                    <span class="icon-md p-t10">
+                                        <i class="flaticon-worker"></i>
+                                    </span>
+                                    <div class="icon-content">
+                                        <div class="m-b5"><span class="counter">808</span></div>
+                                        <div class="icon-content-info">Skilled Contractors</div>
                                     </div>
                                 </div>
                             </div>
-                            
+
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="wt-icon-box-wraper left">
+                                    <span class="icon-md p-t10">
+                                        <i class="flaticon-briefing"></i>
+                                    </span>
+                                    <div class="icon-content">
+                                        <div class="m-b5"><span class="counter">950</span></div>
+                                        <div class="icon-content-info">Projects Completed</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="wt-icon-box-wraper left">
+                                    <span class="icon-md p-t10">
+                                        <i class="flaticon-factory"></i>
+                                    </span>
+                                    <div class="icon-content">
+                                        <div class="m-b5"><span class="counter">560</span></div>
+                                        <div class="icon-content-info">Industries Served</div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-3 col-md-6 col-sm-6">
+                                <div class="wt-icon-box-wraper left ">
+                                    <span class="icon-md p-t10">
+                                        <i class="flaticon-reliability"></i>
+                                    </span>
+                                    <div class="icon-content">
+                                        <div class="m-b5"><span class="counter">996</span></div>
+                                        <div class="icon-content-info">Trusted By</div>
+                                    </div>
+                                </div>
+                            </div>
 
                         </div>
                     </div>
-                </div>
-            </div>   
-            <!-- SOME FACTS END -->  
 
-             <!-- TESTIMONIAL SECTION START -->
+                    <div class="video-with-content m-b30">
+                        <div class="row">
+                            <div class="col-lg-5 col-md-12">
+                                <div class="video-left-content">
+                                    <h3 class="wt-title site-text-white">
+                                        We believe in building long lasting our business relationships.
+                                    </h3>
+                                    <p>+91-9535452209, +91-9986338333.</p>
+                                    <p>info@gmail.com</p>
+                                    <i class="flaticon-customer-service"></i>
+                                </div>
+                            </div>
+                            <div class="col-lg-7 col-md-12">
+                                <div class="video-section-two overlay-wraper bg-cover"
+                                    style="background-image: url(img/Aluminum-partition-instal-1.webp);" alt="bg-video">
+                                    <div class="overlay-main site-bg-black opacity-07"></div>
+                                    <a href="img/as-video.mp4" class="mfp-video play-now-video">
+                                        <i class="icon fa fa-play"></i>
+                                        <span class="ripple"></span>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- SOME FACTS END -->
+
+    <!-- TESTIMONIAL SECTION START -->
     <div class="section-full  p-t120 p-b90 testimonial-1-outer bg-white">
         <div class="container">
             <div class="section-content">
@@ -236,7 +236,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" alt="">
+                                            <img src="img/testimonial-anil.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -262,7 +262,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic2.jpg" alt="">
+                                            <img src="img/testimonial-neelima.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -288,7 +288,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic3.jpg" alt="">
+                                            <img src="img/testimonial-vijay.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -314,7 +314,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" alt="">
+                                            <img src="img/amit.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -340,7 +340,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic2.jpg" alt="">
+                                            <img src="img/testimonial-sneha.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -366,7 +366,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic3.jpg" alt="">
+                                            <img src="img/ankit.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -394,17 +394,18 @@ include('includes/header.php')
         </div>
     </div>
 </div>
-<!-- TESTIMONIAL SECTION END -->    
-         
-                              
+<!-- TESTIMONIAL SECTION END -->
 
-     
-        </div>
-        <!-- CONTENT END -->
 
-        <?php ;
+
+
+</div>
+<!-- CONTENT END -->
+
+<?php ;
 
 include('includes/footer.php')
 
- ?>
- </html>
+    ?>
+
+</html>

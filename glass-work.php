@@ -10,7 +10,7 @@ include('includes/header.php')
         <div class="page-content">
 
             <!-- INNER PAGE BANNER -->
-            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(images/banner/1.jpg);">
+            <div class="wt-bnr-inr overlay-wraper bg-center" style="background-image:url(img/glass-banner.webp);">
             	<div class="overlay-main site-bg-black opacity-06"></div>
                 <div class="container">
                     <div class="wt-bnr-inr-entry">
@@ -23,8 +23,8 @@ include('includes/header.php')
                         
                             <div>
                                 <ul class="wt-breadcrumb breadcrumb-style-2">
-                                    <li><a href="index.html">Home</a></li>
-                                    <li>Our Services</li>
+                                    <li><a href="index.php">Home</a></li>
+                                    <li>Glass Work Services</li>
                                 </ul>
                             </div>
                         
@@ -55,7 +55,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-physics"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-physics"></i> -->
+                                                <img src="img/upvc-window-Installatio-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -80,7 +83,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-graphic-tool"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-graphic-tool"></i> -->
+                                                <img src="img/balustrading-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -104,7 +110,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-gas-station"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-gas-station"></i> -->
+                                                <img src="img/spider-fitting-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -127,7 +136,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-work-time"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-work-time"></i> -->
+                                                <img src="img/glass-partitions-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -149,7 +161,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-oil"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                            <img src="img/etching-icon.webp" alt="glass">
+                                            <!-- <i class="flaticon-oil"></i> -->
+                                        </span>
                                         </div>
                                     </div> 
                                             
@@ -171,7 +186,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-car-parts"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-car-parts"></i> -->
+                                                <img src="img/glass-shelving-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -192,7 +210,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-car-parts"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-car-parts"></i> -->
+                                                <img src="img/glass-replacing-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -213,7 +234,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-car-parts"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-car-parts"></i> -->
+                                                <img src="img/patch-fitting-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -234,7 +258,10 @@ include('includes/header.php')
                                 
                                     <div class="wt-icon-box-wraper">
                                         <div class="icon-xl inline-icon">
-                                            <span class="icon-cell site-text-primary"><i class="flaticon-car-parts"></i></span>
+                                            <span class="icon-cell site-text-primary">
+                                                <!-- <i class="flaticon-car-parts"></i> -->
+                                                <img src="img/all-types-mirrors-icon.webp" alt="glass">
+                                            </span>
                                         </div>
                                     </div> 
                                             
@@ -401,7 +428,7 @@ include('includes/header.php')
                                         </div>
 
                                         
-                                        <div class="video-section-first overlay-wraper bg-cover" style="background-image: url(images/background/bg-2.jpg);">
+                                        <div class="video-section-first overlay-wraper bg-cover" style="background-image: url(img/glass partition-2.webpg);">
                                             <div class="overlay-main site-bg-primary opacity-07"></div>
                                             <a href="https://www.youtube.com/watch?v=c1XNqw2gSbU" class="mfp-video play-now-video">
                                                 <i class="icon fa fa-play"></i>

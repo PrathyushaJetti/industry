@@ -306,11 +306,11 @@ define('ROOT_PATH', 'http://localhost/industry/');
 
                         <!-- Header Right Section-->
                         <div class="extra-nav header-1-nav">
-                            <div class="extra-cell one">
+                            <!-- <div class="extra-cell one">
                                 <div class="header-search">
                                     <a href="#search" class="header-search-icon"><i class="fa fa-search"></i></a>
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="extra-cell two">
                                 <div class="ap-btn-outer">
                                     <a href="#" class="ap-btn contact-slide-show">Request A Quote <i

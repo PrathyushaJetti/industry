@@ -60,7 +60,10 @@ include('includes/header.php')
 
                             <div class="wt-icon-box-wraper">
                                 <div class="icon-xl inline-icon">
-                                    <span class="icon-cell site-text-primary"><i class="flaticon-physics"></i></span>
+                                    <span class="icon-cell site-text-primary">
+                                        <!-- <i class="flaticon-physics"></i> -->
+                                        <img src="img/aluminum-icon.webp" alt="aluminum">
+                                    </span>
                                 </div>
                             </div>
 
@@ -84,8 +87,11 @@ include('includes/header.php')
 
                             <div class="wt-icon-box-wraper">
                                 <div class="icon-xl inline-icon">
-                                    <span class="icon-cell site-text-primary"><i
-                                            class="flaticon-graphic-tool"></i></span>
+                                    <span class="icon-cell site-text-primary">
+                                        <!-- <i
+                                            class="flaticon-graphic-tool"></i> -->
+                                            <img src="img/upvc-icon.webp" alt="upvc">
+                                        </span>
                                 </div>
                             </div>
 
@@ -108,8 +114,11 @@ include('includes/header.php')
 
                             <div class="wt-icon-box-wraper">
                                 <div class="icon-xl inline-icon">
-                                    <span class="icon-cell site-text-primary"><i
-                                            class="flaticon-gas-station"></i></span>
+                                    <span class="icon-cell site-text-primary">
+                                        <!-- <i
+                                            class="flaticon-gas-station"></i> -->
+                                            <img src="img/glass-icon.webp" alt="glass">
+                                        </span>
                                 </div>
                             </div>
 
@@ -282,7 +291,7 @@ include('includes/header.php')
 
 
                             <div class="video-section-first overlay-wraper bg-cover"
-                                style="background-image: url(images/background/bg-2.jpg);">
+                                style="background-image: url(img/Aluminum-partition-instal-1.webp); " alt="bg-video">
                                 <div class="overlay-main site-bg-primary opacity-07"></div>
                                 <a href="img/as-video.mp4" class="mfp-video play-now-video">
                                     <i class="icon fa fa-play"></i>
@@ -324,7 +333,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" alt="">
+                                            <img src="img/testimonial-anil.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -350,7 +359,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic2.jpg" alt="">
+                                            <img src="img/testimonial-neelima.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -377,7 +386,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic3.jpg" alt="">
+                                            <img src="img/testimonial-vijay.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -403,7 +412,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic1.jpg" alt="">
+                                            <img src="img/amit.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
@@ -429,7 +438,7 @@ include('includes/header.php')
                                 <div class="testimonial-detail clearfix">
                                     <div class="testimonial-pic-block">
                                         <div class="testimonial-pic">
-                                            <img src="images/testimonials/pic2.jpg" alt="">
+                                            <img src="img/testimonial-sneha.webp" alt="">
                                         </div>
                                     </div>
                                     <div class="testimonial-info">

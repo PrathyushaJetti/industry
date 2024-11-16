@@ -111,9 +111,9 @@ include('.././includes/header.php');
                                               <p>Convex mirrors provide a broad field of view, making them ideal for enhancing safety in driveways and retail spaces. Concave mirrors are often used for detailed work in beauty or shaving mirrors, focusing on close-up clarity.</p>
                                             <p>Explore All Types of Mirrors at prices that fit any budget and style with AS Enterprises. Whether it’s for style, function, or both, there’s a mirror perfect for every home in India!</p>
                                             <div class="row">
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/1.jpg" alt="mirrors"></div>
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/2.jpg" alt="mirrors"></div>
-                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../images/services/s/3.jpg" alt="mirrors"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../img/all-types-mirrors-1.webp" alt="mirrors"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../img/all-types-mirrors-2.webp" alt="mirrors"></div>
+                                                <div class="col-md-6 col-lg-4 m-b30"><img src="../img/all-types-mirrors-3.webp" alt="mirrors"></div>
                                               </div>                                            
                                                                                      
                                         </div>
@@ -126,7 +126,7 @@ include('.././includes/header.php');
                                       
                                             <div class="col-md-6">
                                                 <div class="wt-media">
-                                                    <img src="../images/services/s/4.jpg" alt="aluminum"> 
+                                                    <img src="../img/all-types-mirrors-4.webp" alt="aluminum"> 
                                                 </div>                                            
                                             </div>
 
