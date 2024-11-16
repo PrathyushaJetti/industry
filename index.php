@@ -314,7 +314,7 @@ include('includes/header.php')
                                     border-width:0px; font-family: 'Poppins', sans-serif; text-transform:uppercase">
                             <div class="site-text-white"> Welcome To AS Enterprises </div>
                         </div>
-
+                         
                         <!-- LAYER NR. 3 [ for title ] -->
                         <div class="tp-caption   tp-resizeme" id="slide-903-layer-3"
                             data-x="['left','left','center','center']" data-hoffset="[60','60','0','0']"
@@ -329,12 +329,12 @@ include('includes/header.php')
                             data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]"
                             style="z-index: 2; 
                                     white-space: normal; 
-                                    font-weight: 3s00;
+                                    font-weight: 200;
                                     color:#fff;
-                                    border-width:0px; font-family: 'Poppins', sans-serif;">
+                                    border-width:0px; font-family: 'Poppins', sans-serif;"><br>
                             <div class="site-text-white">Quality Aluminium, Glass, UPVC Creations.</div>
                         </div>
-
+                        <br><br><br><br>
                         <!-- LAYER NR. 5 [ for botton ] -->
                         <div class="tp-caption tp-resizeme rev-btn" id="slide-903-layer-5"
                             data-x="['left','left','center','center']" data-hoffset="['60','60','0','0']"

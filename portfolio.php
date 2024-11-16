@@ -72,12 +72,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio.webp" title="Energy" 
                         data-lcl-txt="Regulatory Compliance System" data-lcl-author="someone" data-lcl-thumb="images/project/1.jpg">
                         <i></i>    
                         </a> 
-                    </div>                                    
+                    </div>                                     -->
                 </div>                            
                                                                                     
             </div>
@@ -95,12 +95,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-1.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-1.webp" title="industry" 
                         data-lcl-txt="Florida Chemical Factories" data-lcl-author="someone" data-lcl-thumb="images/project/2.jpg">
                         <i></i>    
                         </a> 
-                    </div>
+                    </div> -->
                 </div>                           
                                                                                     
             </div>
@@ -118,12 +118,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-3.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-3.webp" title="Construction" 
                         data-lcl-txt="Flyover Construction" data-lcl-author="someone" data-lcl-thumb="images/project/3.jpg">
                         <i></i>    
                         </a> 
-                    </div>                                    
+                    </div>                                     -->
                 </div>                            
                                                                                     
             </div> 
@@ -141,12 +141,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-4.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-4.webp" title=" Oil & Gas" 
                         data-lcl-txt="Documents Electronics Data" data-lcl-author="someone" data-lcl-thumb="images/project/4.jpg">
                         <i></i>    
                         </a> 
-                    </div>                                    
+                    </div>                                     -->
                 </div>                           
                                                                                     
             </div> 
@@ -164,12 +164,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-5.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-5.webp" title="Automobile" 
                         data-lcl-txt="Automotive Manufactureing" data-lcl-author="someone" data-lcl-thumb="images/project/5.jpg">
                         <i></i>    
                         </a> 
-                    </div>                                    
+                    </div>                                     -->
                 </div>                            
                                                                                     
             </div>
@@ -187,12 +187,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-6.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-6.webp" title="Industrial" 
                         data-lcl-txt="California Power Point" data-lcl-author="someone" data-lcl-thumb="images/project/6.jpg">
                         <i></i>    
                         </a> 
-                    </div>                                    
+                    </div>                                     -->
                 </div>                            
                                                                                     
             </div>
@@ -210,12 +210,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-10.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-10.webp" title="Energy" 
                         data-lcl-txt="Regulatory Compliance System" data-lcl-author="someone" data-lcl-thumb="images/project/7.jpg">
                         <i></i>    
                         </a> 
-                    </div>                                    
+                    </div>                                     -->
                 </div>                            
                                                                                     
             </div>
@@ -233,12 +233,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-8.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-8.webp" title="Industry" 
                         data-lcl-txt="Florida Chemical Factories" data-lcl-author="someone" data-lcl-thumb="images/project/2.jpg">
                         <i></i>    
                         </a> 
-                    </div>
+                    </div> -->
                 </div>                           
                                                                                     
             </div>
@@ -256,12 +256,12 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio-9.webp" alt="portfolio">
                     </div>
-                    <div class="project-view">
+                    <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio-9.webp" title="Construction" 
                         data-lcl-txt="Flyover Construction" data-lcl-author="someone" data-lcl-thumb="images/project/8.jpg">
                         <i></i>    
                         </a> 
-                    </div>                                    
+                    </div>                                     -->
                 </div>                            
                                                                                     
             </div>                         
