@@ -323,7 +323,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
 
                         <!-- Contact Nav -->
                         <div class="contact-slide-hide bg-cover"
-                            style="background-image:url(<?= ROOT_PATH ?>img/as-enterprises-contact.webp);">
+                            style="background-image:url(<?= ROOT_PATH ?>img/request-quote.webp);">
                             <div class="contact-nav">
                                 <a href="javascript:void(0)" class="contact_close">&times;</a>
                                 <div class="contact-nav-form p-a30">
@@ -333,7 +333,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                             <div class="icon-xs m-b20 scale-in-center"><i class="fa fa-phone"></i></div>
                                             <div class="icon-content">
                                                 <h4 class="m-t0  wt-title">Phone number</h4>
-                                                <p>+91-9535452209, +91-9986338333.</p>
+                                                <p style="color:white">+91-9535452209, +91-9986338333.</p>
                                             </div>
                                         </div>
 
@@ -342,7 +342,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                             </div>
                                             <div class="icon-content">
                                                 <h4 class="m-t0 wt-title">Email address</h4>
-                                                <p>asenterprises1569@gmail.com</p>
+                                                <p style="color:white">asenterprises1569@gmail.com</p>
                                             </div>
                                         </div>
 
@@ -351,13 +351,13 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                             </div>
                                             <div class="icon-content">
                                                 <h4 class="m-t0  wt-title">Address info</h4>
-                                                <p>1 STAGE KIADB Kapnoor Industrial Area plot no.36/C 6th cross,<br>
-                                                    near Rahman Masjid Kalaburgi-585104 Gulbarga, Karnatakae</p>
+                                                <p style="color:white">1 STAGE KIADB Kapnoor Industrial Area plot no.36/C 6th cross,<br>
+                                                    near Rahman Masjid Kalaburgi-585104 Gulbarga, Karnataka</p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="text-center">
-                                        <span>&copy; 2023 AS Enterprises</span>
+                                        <span style="color:white">&copy; 2023 AS Enterprises</span>
                                     </div>
                                 </div>
                             </div>
