@@ -62,6 +62,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
             background-color: white;
             /* White background */
             width: 820%;
+            /*margin-left:-120px;*/
             /* Full width on desktop */
             box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
             z-index: 1;
@@ -243,34 +244,35 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                             <div class="column" style="background-color:white;color:black">
                                                 <h3> Aluminum </h3>
                                                 <a href="<?= ROOT_PATH ?>services/aluminum_window_installation.php">
-                                                    Window Installation </a>
+                                                <span style="font-size:12px">Window Installation</span></a>
                                                 <a href="<?= ROOT_PATH ?>services/aluminum_partition_installation.php">
-                                                    Partition Installation </a>
-                                                <a href="<?= ROOT_PATH ?>services/aluminum_door_installation.php"> Door
-                                                    Installation </a>
-                                                <a href="<?= ROOT_PATH ?>services/glazing_work.php"> Glazing Work </a>
+                                                <span style="font-size:12px">Partition Installation</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/aluminum_door_installation.php"><span style="font-size:12px">Door
+                                                    Installation</span> </a>
+                                                <a href="<?= ROOT_PATH ?>services/glazing_work.php"> <span style="font-size:12px">Glazing Work </span></a>
                                                 <a href="<?= ROOT_PATH ?>services/profile_door_installation.php">
-                                                    Profile Door Installation </a>
-                                            </div>
+                                                <span style="font-size:12px">Profile Door Installation</span></a>
+                                               </div>
                                             <div class="column" style="background-color:white;color:black">
                                                 <h3> UPVC </h3>
-                                                <a href="<?= ROOT_PATH ?>services/upvc_window_installation.php">Window
-                                                    Installation</a>
-                                                <a href="<?= ROOT_PATH ?>services/upvc_partitions_installation.php">Partition
-                                                    Installation</a>
-                                                <a href="<?= ROOT_PATH ?>services/upvc_door_installations.php">Door
-                                                    Installation</a>
+                                                <a href="<?= ROOT_PATH ?>services/upvc_window_installation.php">
+                                                <span style="font-size:12px">Window
+                                                    Installation</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/upvc_partitions_installation.php"><span style="font-size:12px">Partition
+                                                    Installation</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/upvc_door_installations.php"><span style="font-size:12px">Door
+                                                    Installation</span></a>
                                             </div>
                                             <div class="column" style="background-color:white;color:black">
                                                 <h3> Glass </h3>
-                                                <a href="<?= ROOT_PATH ?>services/glass_polishing.php">Glass
-                                                    Polishing</a>
-                                                <a href="<?= ROOT_PATH ?>services/balustrading.php">Balustrading</a>
-                                                <a href="<?= ROOT_PATH ?>services/spider_fitting.php">Spider
-                                                    Fitting</a>
-                                                <a href="<?= ROOT_PATH ?>services/glass_partitions.php">Glass
-                                                    Partitions</a>
-                                                <a href="<?= ROOT_PATH ?>services/etching.php">Etching</a>
+                                                <a href="<?= ROOT_PATH ?>services/glass_polishing.php"><span style="font-size:12px">Glass
+                                                    Polishing</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/balustrading.php"><span style="font-size:12px">Balustrading</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/spider_fitting.php"><span style="font-size:12px">Spider
+                                                    Fitting</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/glass_partitions.php"><span style="font-size:12px">Glass
+                                                    Partitions</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/etching.php"><span style="font-size:12px">Etching</span></a>
                                                 
 
 
@@ -279,14 +281,14 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                             </div>
                                             <div class="column" style="background-color:white;color:black">
                                                  <h3>Glass </h3>
-                                                 <a href="<?= ROOT_PATH ?>services/glass_shelving.php">Glass
-                                                    Shelving</a>
-                                                <a href="<?= ROOT_PATH ?>services/glass_replacing.php">Glass
-                                                    Replacing</a>
-                                                <a href="<?= ROOT_PATH ?>services/glass_patch_fitting.php">Glass Patch
-                                                    Fitting</a>
-                                                <a href="<?= ROOT_PATH ?>services/all_types_of_mirrors.php">All Types
-                                                    of Mirrors</a>
+                                                 <a href="<?= ROOT_PATH ?>services/glass_shelving.php"><span style="font-size:12px">Glass
+                                                    Shelving</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/glass_replacing.php"><span style="font-size:12px">Glass
+                                                    Replacing</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/glass_patch_fitting.php"><span style="font-size:12px">Glass Patch
+                                                    Fitting</span></a>
+                                                <a href="<?= ROOT_PATH ?>services/all_types_of_mirrors.php"><span style="font-size:12px">All Types
+                                                    of Mirrors</span></a>
                                              </div>
                                         </div>
                                     </div>
