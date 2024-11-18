@@ -72,6 +72,7 @@ include('includes/header.php')
                     <div class="project-media">
                         <img src="img/Portfolio.webp" alt="portfolio">
                     </div>
+                    
                     <!-- <div class="project-view">
                         <a class="elem pic-long project-view-btn" href="img/Portfolio.webp" title="Energy" 
                         data-lcl-txt="Regulatory Compliance System" data-lcl-author="someone" data-lcl-thumb="images/project/1.jpg">

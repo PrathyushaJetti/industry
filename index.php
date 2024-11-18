@@ -398,7 +398,7 @@ include('includes/header.php')
                                         <div class="sep-leaf-left"></div>
                                         <div>About Us</div>
                                     </div>
-                                    <h2>The Best Solution For All Industries And Factories</h2>
+                                    <h2>Expertly Crafted Aluminum, Glass, and uPVC Installations.</h2>
                                 </div>
                                 <!-- TITLE END-->
 
@@ -408,8 +408,8 @@ include('includes/header.php')
                                             <span>25</span>
                                             <p>Year of Success</p>
                                         </div>
-                                        <p>Welcome to AS Enterprise! We specialize in high-quality aluminum and glass
-                                            work, serving both residential and commercial needs. With years of
+                                        <p>Welcome to AS Enterprise! We specialize in high-quality aluminum ,glass
+                                            work and upvc, serving both residential and commercial needs. With years of
                                             experience, our skilled team is dedicated to delivering reliable, durable,
                                             and stylish solutions. From custom windows and doors to glass partitions and
                                             facades, we use premium materials to ensure lasting results and customer
@@ -417,26 +417,26 @@ include('includes/header.php')
                                         </p>
                                     </div>
 
-                                    <div class="row">
-                                        <div class="col-lg-6 col-md-12">
-                                            <div class="wt-icon-box-wraper left bg-black m-b30">
-                                                <div class="icon-content">
-                                                    <h4 class="wt-tilte">Best Quality Services</h4>
-                                                    <p>Train with the best experts in body building field.</p>
-                                                </div>
-                                            </div>
+                                    <!--<div class="row">-->
+                                    <!--    <div class="col-lg-6 col-md-12">-->
+                                    <!--        <div class="wt-icon-box-wraper left bg-black m-b30">-->
+                                    <!--            <div class="icon-content">-->
+                                    <!--                <h4 class="wt-tilte">Best Quality Services</h4>-->
+                                    <!--                <p>Train with the best experts in body building field.</p>-->
+                                    <!--            </div>-->
+                                    <!--        </div>-->
 
-                                        </div>
-                                        <div class="col-lg-6 col-md-12">
-                                            <div class="wt-icon-box-wraper left bg-black m-b30">
-                                                <div class="icon-content">
-                                                    <h4 class="wt-tilte">Lean Machines</h4>
-                                                    <p>Our personal trainers will help you
-                                                        find a perfect workout.</p>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                                    <!--    </div>-->
+                                    <!--    <div class="col-lg-6 col-md-12">-->
+                                    <!--        <div class="wt-icon-box-wraper left bg-black m-b30">-->
+                                    <!--            <div class="icon-content">-->
+                                    <!--                <h4 class="wt-tilte">Lean Machines</h4>-->
+                                    <!--                <p>Our personal trainers will help you-->
+                                    <!--                    find a perfect workout.</p>-->
+                                    <!--            </div>-->
+                                    <!--        </div>-->
+                                    <!--    </div>-->
+                                    <!--</div>-->
                                     <a href="about.php" class="site-button sb-bdr-dark">Learn More</a>
                                 </div>
                             </div>
@@ -576,7 +576,7 @@ include('includes/header.php')
                                 <div class="icon-xl inline-icon">
                                     <span class="icon-cell site-text-primary">
                                         <!-- <i class="flaticon-physics"></i> -->
-                                        <img src="img/aluminum-icon.webp" alt="aluminum">
+                                        <img src="img/Aluminum-icon.webp" alt="aluminum">
                                     </span>
                                 </div>
                             </div>
@@ -604,7 +604,7 @@ include('includes/header.php')
                                     <span class="icon-cell site-text-primary">
                                         <!-- <i
                                             class="flaticon-graphic-tool"></i> -->
-                                            <img src="img/upvc-icon.webp" alt="upvc">
+                                            <img src="img/UPVC-icon.webp" alt="upvc">
                                         </span>
                                 </div>
                             </div>
@@ -631,7 +631,7 @@ include('includes/header.php')
                                     <span class="icon-cell site-text-primary">
                                         <!-- <i
                                             class="flaticon-gas-station"></i> -->
-                                            <img src="img/glass-icon.webp" alt="glass">
+                                            <img src="img/Glass-icon.webp" alt="glass">
                                         </span>
                                 </div>
                             </div>
@@ -833,13 +833,13 @@ include('includes/header.php')
                                         </div>
                                     </div>
                                     <div class="testimonial-info">
-                                        <span class="testimonial-name">Rakesh BansalRavi Patel</span>
+                                        <span class="testimonial-name">Rakesh Bansal</span>
                                       
                                     </div>
                                 </div>
 
                                 <div class="testimonial-text">
-                                    <p>I used AS Enterprises for aluminum windows. The service was fast and professional, and the quality was top-notch. My windows look great and are very durable. Highly recommend.
+                                    <p>I used AS Enterprises for aluminum windows. The service was fast and professional, and the quality was best. My windows look great and are very durable. Highly recommend.
                                     </p>
                                     <i class="flaticon-quote-1"></i>
                                 </div>
