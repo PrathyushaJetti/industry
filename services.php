@@ -40,7 +40,7 @@ include('includes/header.php')
     <!-- INNER PAGE BANNER END -->
 
     <!-- SERVICES SECTION START -->
-    <div class="section-full p-t120  p-b90" style="background-image:url(imag/services-banner.webp);">
+    <div class="section-full p-t120  p-b90" style="background-image:url(img/services-banner.webp);"></div>
 
         <div class="container">
             <!-- TITLE START-->
@@ -62,7 +62,7 @@ include('includes/header.php')
                                 <div class="icon-xl inline-icon">
                                     <span class="icon-cell site-text-primary">
                                         <!-- <i class="flaticon-physics"></i> -->
-                                        <img src="img/aluminum-icon.webp" alt="aluminum">
+                                        <img src="img/Aluminum-icon.webp" alt="aluminum">
                                     </span>
                                 </div>
                             </div>
@@ -90,7 +90,7 @@ include('includes/header.php')
                                     <span class="icon-cell site-text-primary">
                                         <!-- <i
                                             class="flaticon-graphic-tool"></i> -->
-                                            <img src="img/upvc-icon.webp" alt="upvc">
+                                            <img src="img/UPVC-icon.webp" alt="upvc">
                                         </span>
                                 </div>
                             </div>
@@ -117,7 +117,7 @@ include('includes/header.php')
                                     <span class="icon-cell site-text-primary">
                                         <!-- <i
                                             class="flaticon-gas-station"></i> -->
-                                            <img src="img/glass-icon.webp" alt="glass">
+                                            <img src="img/Glass-icon.webp" alt="glass">
                                         </span>
                                 </div>
                             </div>

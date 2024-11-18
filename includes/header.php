@@ -1,5 +1,5 @@
 <?php
-define('ROOT_PATH', 'http://localhost/industry/');
+define('ROOT_PATH', 'https://www.asw-enterprises.com/');
 ?>
 
 <!DOCTYPE html>
@@ -17,11 +17,11 @@ define('ROOT_PATH', 'http://localhost/industry/');
     $title = isset($meta['keywords']) ? $meta['keywords'] : 'AS Enterprises';
     echo $meta['keywords'] ;?>">
     <!-- FAVICONS ICON -->
-    <link rel="icon" href="images/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="<?= ROOT_PATH ?>img/logo.png" type="image/x-icon" />
     <link rel="shortcut icon" type="image/x-icon" href="<?= ROOT_PATH ?>img/logo.png" />
 
     <!-- PAGE TITLE HERE -->
-    <title>indusza Template | Home Page Style 1</title>
+    
 
     <!-- MOBILE SPECIFIC -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -293,7 +293,7 @@ define('ROOT_PATH', 'http://localhost/industry/');
                                         </div>
                                     </div>
                                 </li>
-                                <li class="has-child"><a href="<?= ROOT_PATH ?>Portfolio.php">Portfolio</a>
+                                <li class="has-child"><a href="<?= ROOT_PATH ?>portfolio.php">Portfolio</a>
                                     <div class="fa fa-angle-right submenu-toogle"></div>
 
                                 </li>

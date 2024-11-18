@@ -51,7 +51,7 @@ include('includes/header.php')
                             
                             <div class="col-lg-7 col-md-12">
                                 <div class="contact-form-outer site-bg-gray">
-                                    <form  class="cons-contact-form" method="post" action=" ">
+                                    <form  class="" method="post" action="">
 
                                         
                                         <!-- TITLE START-->
@@ -94,7 +94,7 @@ include('includes/header.php')
                                             </div>
                                             
                                             <div class="col-md-12">
-                                                <button type="submit" class="site-button sb-bdr-dark">Submit Now</button>
+                                                <input type="submit" class="site-button sb-bdr-dark" name="submit" value="Submit Now" />
                                             </div>
                                             
                                         </div>
@@ -158,7 +158,9 @@ include('includes/footer.php')
 </html>
 
 <?php
-if ($_SERVER["REQUEST_METHOD"] == "POST") {
+ini_set( 'display_errors', 1 );
+error_reporting( E_ALL );
+if(isset($_POST['submit'])) {
     // Collect and sanitize form data
     $username = htmlspecialchars(strip_tags($_POST['username']));
     $email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
@@ -166,11 +168,11 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $subject = htmlspecialchars(strip_tags($_POST['subject']));
     $message = htmlspecialchars(strip_tags($_POST['message']));
 
-    // Validate email
-    if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
-        echo "Invalid email format";
-        exit;
-    }
+    // // Validate email
+    // if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    //     echo "Invalid email format";
+    //     exit;
+    // }
 
     // Prepare the email
     $to = "asenterprises1569@gmail.com";
@@ -184,6 +186,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $headers = "From: $email\r\n";
     $headers .= "Reply-To: $email\r\n";
+    
     
     // Send the email
     if (mail($to, $email_subject, $email_body, $headers)) {
