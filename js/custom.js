@@ -745,7 +745,7 @@ $.fn.owlFilter = function(data, callback) {
 		var form = jQuery(this);
 		/* sending message */
 		jQuery.ajax({
-			url: 'http://thewebmax.com/indusza/form-handler2.php',
+			url: 'contact.php',
 			
 			data: form.serialize() + "&action=contactform",
 			type: 'POST',
