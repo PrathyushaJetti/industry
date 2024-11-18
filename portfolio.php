@@ -56,239 +56,183 @@ include('includes/header.php')
     </div>
     <!-- TITLE END-->
 
-    <div class="section-content">
-        <div class="project-box-style1-outer no-gutters  row clearfix d-flex justify-content-center flex-wrap m-b30">
-
             <!-- COLUMNS 1 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            Energy 
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio.webp" alt="portfolio">
-                    </div>
-                    
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio.webp" title="Energy" 
-                        data-lcl-txt="Regulatory Compliance System" data-lcl-author="someone" data-lcl-thumb="images/project/1.jpg">
-                        <i></i>    
-                        </a> 
-                    </div>                                     -->
-                </div>                            
-                                                                                    
-            </div>
 
-            <!-- COLUMNS 2 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            industry
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-1.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-1.webp" title="industry" 
-                        data-lcl-txt="Florida Chemical Factories" data-lcl-author="someone" data-lcl-thumb="images/project/2.jpg">
-                        <i></i>    
-                        </a> 
-                    </div> -->
-                </div>                           
-                                                                                    
+<div class="container">
+    <div class="row">
+        <!-- Video 1 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/VF1Yz05iQM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/VF1Yz05iQM0" data-target="#videoModal" data-toggle="modal"></div>
             </div>
-
-            <!-- COLUMNS 3 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            Construction
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-3.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-3.webp" title="Construction" 
-                        data-lcl-txt="Flyover Construction" data-lcl-author="someone" data-lcl-thumb="images/project/3.jpg">
-                        <i></i>    
-                        </a> 
-                    </div>                                     -->
-                </div>                            
-                                                                                    
-            </div> 
-            
-            <!-- COLUMNS 4 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            Oil & Gas
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-4.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-4.webp" title=" Oil & Gas" 
-                        data-lcl-txt="Documents Electronics Data" data-lcl-author="someone" data-lcl-thumb="images/project/4.jpg">
-                        <i></i>    
-                        </a> 
-                    </div>                                     -->
-                </div>                           
-                                                                                    
-            </div> 
-            
-            <!-- COLUMNS 5 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            Automobile
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-5.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-5.webp" title="Automobile" 
-                        data-lcl-txt="Automotive Manufactureing" data-lcl-author="someone" data-lcl-thumb="images/project/5.jpg">
-                        <i></i>    
-                        </a> 
-                    </div>                                     -->
-                </div>                            
-                                                                                    
-            </div>
-            
-            <!-- COLUMNS 6 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            Industrial
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-6.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-6.webp" title="Industrial" 
-                        data-lcl-txt="California Power Point" data-lcl-author="someone" data-lcl-thumb="images/project/6.jpg">
-                        <i></i>    
-                        </a> 
-                    </div>                                     -->
-                </div>                            
-                                                                                    
-            </div>
-
-            <!-- COLUMNS 7 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            Energy 
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-10.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-10.webp" title="Energy" 
-                        data-lcl-txt="Regulatory Compliance System" data-lcl-author="someone" data-lcl-thumb="images/project/7.jpg">
-                        <i></i>    
-                        </a> 
-                    </div>                                     -->
-                </div>                            
-                                                                                    
-            </div>
-
-            <!-- COLUMNS 8 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            industry
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-8.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-8.webp" title="Industry" 
-                        data-lcl-txt="Florida Chemical Factories" data-lcl-author="someone" data-lcl-thumb="images/project/2.jpg">
-                        <i></i>    
-                        </a> 
-                    </div> -->
-                </div>                           
-                                                                                    
-            </div>
-
-            <!-- COLUMNS 9 -->
-            <div class=" col-xl-4 col-lg-4 col-md-6 col-sm-6">
-            
-                <div class="project-box-style1">
-                    <div class="project-content">
-                        <!-- <div class="project-title">
-                            Construction
-                        </div> -->
-                        <h4 class="project-title-large"><a href="#"></a></h4>
-                    </div>
-                    <div class="project-media">
-                        <img src="img/Portfolio-9.webp" alt="portfolio">
-                    </div>
-                    <!-- <div class="project-view">
-                        <a class="elem pic-long project-view-btn" href="img/Portfolio-9.webp" title="Construction" 
-                        data-lcl-txt="Flyover Construction" data-lcl-author="someone" data-lcl-thumb="images/project/8.jpg">
-                        <i></i>    
-                        </a> 
-                    </div>                                     -->
-                </div>                            
-                                                                                    
-            </div>                         
-                                                    
-            </div>                            
-
         </div>
-
-    </div>      
-        
+        <!-- Video 2 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/2g811Eo7K8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/2g811Eo7K8U" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+        <!-- Video 3 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/3fumBcKC6RE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/3fumBcKC6RE" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+    </div>
 </div>
 
-</div>   
+
+<br/><br/>
+<div class="container">
+    <div class="row">
+        <!-- Video 1 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/VF1Yz05iQM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/VF1Yz05iQM0" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+        <!-- Video 2 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/2g811Eo7K8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/2g811Eo7K8U" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+        <!-- Video 3 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/3fumBcKC6RE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/3fumBcKC6RE" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<br/><br/>
+<div class="container">
+    <div class="row">
+        <!-- Video 1 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/VF1Yz05iQM0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/VF1Yz05iQM0" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+        <!-- Video 2 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/2g811Eo7K8U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/2g811Eo7K8U" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+        <!-- Video 3 -->
+        <div class="col-md-4">
+            <div class="holder">
+                <iframe width="80%" height="315" src="https://www.youtube.com/embed/3fumBcKC6RE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <div class="overlay trigger" data-src="https://www.youtube.com/embed/3fumBcKC6RE" data-target="#videoModal" data-toggle="modal"></div>
+            </div>
+        </div>
+    </div>
+</div>
+                </div>                            
+                                                                                    
+            </div>
+
+            <!-- COLUMNS 2 -->          
+           
 <!-- Project SECTION END -->            
 
 <!-- CONTENT END -->
 
 
+<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="videoModal" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <button type="button" class="close btn-round btn-primary" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+            </button>
+      <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="" allowfullscreen></iframe>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
 
+<script>
+$(document).ready(function() {
+  autoPlayYouTubeModal();
+});
+
+function autoPlayYouTubeModal() {
+  var trigger = $('.trigger');
+  trigger.click(function(e) {
+    e.preventDefault();
+    var theModal = $(this).data("target");
+    var videoSRC = $(this).attr("src");
+    var videoSRCauto = videoSRC + "?autoplay=1";
+    $(theModal + ' iframe').attr('src', videoSRCauto);
+    $(theModal).on('hidden.bs.modal', function(e) {
+      $(theModal + ' iframe').attr('src', '');
+    });
+  });
+};
 
 
 
-          
+</script>
+     <style>
+        .holder {
+            position: relative;
+            display: inline-block;
+            width: 340px;
+            height: 176px;
+        }
+        iframe {
+            display: block;
+            width: 100%;
+            height: 100%;
+        }
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.5);
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script>
+    $(document).ready(function () {
+        // When the overlay is clicked
+        $('.overlay.trigger').on('click', function () {
+            const videoSrc = $(this).data('src'); // Get the video source from data-src
+            $('#videoModal iframe').attr('src', videoSrc + '?autoplay=1'); // Set the iframe src with autoplay
+        });
+
+        // When the modal is hidden
+        $('#videoModal').on('hide.bs.modal', function () {
+            $('#videoModal iframe').attr('src', ''); // Clear the iframe src to stop the video
+        });
+    });
+</script>
+
+</body>
+</html>
 
         <?php ;
 
